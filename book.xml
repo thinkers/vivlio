@@ -76,7 +76,7 @@
                             <hi rend="smallcap">Severus</hi>
                         </rs>, overrun with <rs type="obRef">moss</rs> and <rs type="obRef">weeds</rs>, still stretches, a strong ruin; and the shepherds and their dogs lie sleeping on it in the summer weather. On Salisbury Plain, Stonehenge yet stands: a monument of the earlier time when the Roman name was unknown in Britain, and when the Druids, with their best magic wands, could not have written it in the sands of the wild sea-shore.</p>
                             </div>
-                           
+
                         </div>
                     </body>
                     <back xmlns="http://www.tei-c.org/ns/1.0" xml:id="backmatter">
@@ -139,10 +139,10 @@
                                     <note type="unedited">
                                         Canonical Name : Tiberius Claudius Caesar Augustus Germanicus
                                         Birth name : Tiberius Claudius Nero
-                                        Cognomen: Caesar 
+                                        Cognomen: Caesar
                                         Cognomen: Nero (which he had adopted as paterfamilias of the Claudii Nerones when his brother Germanicus was adopted out)
                                         Honorific: Germanicus (to display the connection with his heroic brother)
-                                        Gender: M 
+                                        Gender: M
                                         Religion/Belief: Roman Paganism
                                         Birthplace: Lugdunum in Gaul (now Lyon, France)
                                         Place of Death: Rome, Italy
@@ -152,12 +152,12 @@
                                         # In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.
                                         Claudius himself travelled to the island after the completion of initial offensives, b
                                         - death: 13 October 54 AD
-                                        - Relations to other persons mentioned in the text:  
+                                        - Relations to other persons mentioned in the text:
                                         - Note (small, fingertip): In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.
                                         Notes (Expanded - ie Bio)
                                         Media
                                         - Media Source : Wikipedia
-                                        - Link : https://en.wikipedia.org/wiki/File:Claudius_crop.jpg 
+                                        - Link : https://en.wikipedia.org/wiki/File:Claudius_crop.jpg
                                         - Title : Bust of Emperor Claudius
                                         - Caption : Emperor Claudius
                                         - Rights :  public domain
@@ -174,28 +174,28 @@
                                 <person xml:id="c_aul_plat">
                                     <persName>Aulus Plautius</persName>
                                     <note>
-                                        Gender: M 
-                                        Religion/Belief: 
-                                        Birthplace: 
-                                        Place of Death: 
+                                        Gender: M
+                                        Religion/Belief:
+                                        Birthplace:
+                                        Place of Death:
                                         Dates (birth/death)
-                                        - birth : 
-                                        - other important in between dates: 43 AC =  he lead the invasion of Britannia 
+                                        - birth :
+                                        - other important in between dates: 43 AC =  he lead the invasion of Britannia
                                         47-43 AC = He began the Roman conquest of Britain  and became the first governor of the new province
-                                        - death: 
-                                        Relations to other persons mentioned in the text:  he was sent from Claudius with four legions to Britain in order to subdue the Island 
+                                        - death:
+                                        Relations to other persons mentioned in the text:  he was sent from Claudius with four legions to Britain in order to subdue the Island
                                         Note (small, fingertip) : 1st governor of Roman Britain
                                         Notes (Expanded - ie Bio)
                                         Media
                                         - Media Source :
-                                        - Link :  
+                                        - Link :
                                         - Title :
-                                        - Caption : 
-                                        - Rights :  
+                                        - Caption :
+                                        - Rights :
                                         - Note(s) about media / resource :
                                         - optional media
                                         - Media Source + Link + Rights (ie europeana)
-                                        - Note(s) about media / resource 
+                                        - Note(s) about media / resource
                                     </note>
                                 </person>
                                 <person xml:id="c_pub_ost_sca">
@@ -204,12 +204,12 @@
                                     </persName>
                                     <note>
                                         Canonical Name : Publius Ostorius Scapula
-                                        Gender: M 
-                                        Religion/Belief: 
-                                        Birthplace: 
-                                        Place of Death: 
+                                        Gender: M
+                                        Religion/Belief:
+                                        Birthplace:
+                                        Place of Death:
                                         Dates (birth/death)
-                                        - birth : 
+                                        - birth :
                                         - other important in between dates:  47-52 AD = 2nd governor of Roman Britain
                                         - death: 52 AD
                                         Relations to other persons mentioned in the text: he succeed Aulus Plautius
@@ -217,14 +217,14 @@
                                         Notes (Expanded - ie Bio)
                                         Media
                                         - Media Source : wikimedia
-                                        - Link : https://commons.wikimedia.org/wiki/File:Roman_baths_ostorius_01.JPG 
+                                        - Link : https://commons.wikimedia.org/wiki/File:Roman_baths_ostorius_01.JPG
                                         - Title : Publius Ostorius Scapula
                                         - Caption : Statue of Publius Ostorius Scapula on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.
                                         - Rights :  Creative Commons Attribution-Share Alike 3.0 Unported license.
                                         - Note(s) about media / resource :
                                         - optional media
                                         - Media Source + Link + Rights (ie europeana)
-                                        - Note(s) about media / resource 
+                                        - Note(s) about media / resource
                                     </note>
                                 </person>
                                 <person xml:id="c_gai_sue_tra">
@@ -232,13 +232,13 @@
                                         Gaius Suetonius Tranquillus
                                         <note>
                                             Canonical Name : Gaius Suetonius Tranquillus
-                                            Gender: M 
-                                            Religion/Belief: 
+                                            Gender: M
+                                            Religion/Belief:
                                             Birthplace:  ? Hippo Regius, Roman Africa (modern Annaba, Algeria)?
-                                            Place of Death: 
+                                            Place of Death:
                                             Dates (birth/death)
                                             - birth : 69 AD
-                                            - other important in between dates:  
+                                            - other important in between dates:
                                             - death:  c. 140 AD
                                             Relations to other persons mentioned in the text:  he fight with Bodacea
                                             Note (small, fingertip) : Roman administrator and historian belonging to the equestrian order who wrote during the early Imperial era of the Roman Empire. His most notable work is a set of biographies of twelve successive Roman rulers, from Julius Caesar to Domitian, entitled "De Vita Caesarum".

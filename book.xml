@@ -53,25 +53,35 @@
                 - [Prosopography](http://wiki.tei-c.org/index.php/Prosopography)
                 - Encodes:
                   + name (@gender, @role) >
-                  + date of birth, date of death (optionally)
-                  + note @type="fingertip small"
+                  + date:  prefix with "Birth" + text node
+                  + birth: tex node
+                  + note @type="fingertip small" this is what appears as the main text
                   + note @type=""
                   + note @type=""
                   + is accomapnied by a `fingertip` note that is a short description of the person
             -->
                 <listPerson xml:id="listOfPersons">
+                    <person xml:id="c_julius_caesar">
+                        <persName>Julius Caesar</persName>
+                        <birth>Rome</birth>
+                        <death>Rome</death>
+                        <figure>
+                            <graphic url=""></graphic>
+                        </figure>
+                    </person>
                     <person xml:id="c_tib_claud" sex="m" role="emperor">
                         <persName>Tiberius Claudius Caesar Augustus Germanicus</persName>
-                        <birth> <!-- +  -->
+                        <birth> <!-- + -->
                             1 August 10 BC Lugdunum (Lyon France)
                         </birth>
                         <death> <!-- + -->
                             13 October 54 AD (Rome,Italy)
                         </death>
-                        <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.</note>
-                        <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note>
+                        <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.</note>
+                        <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note> <!-- used for European XML Queries -->
                         <figure>
-                            <graphic url="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg"></graphic>
+                            <!-- https://en.wikipedia.org/wiki/File:Claudius_crop.jpg" -->
+                            <graphic url="media/c_tib_claud.jpg"></graphic>
                             <head>Emperor Claudius</head>
                             <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
                             <note type="source">Wikipedia</note>
@@ -140,7 +150,7 @@
                     <item xml:id="ob_earthware">
                         <name>Earthware</name>
                         <figure>
-                            <graphic url="media/objects/spectacles.jpg" />
+                            <graphic url="media/objects/earthware.jpg" />
                             <head></head><!-- + alt of image -->
                             <figDesc></figDesc> <!-- + caption of image -->
                             <note type="source">Wikimedia</note>

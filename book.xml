@@ -95,13 +95,8 @@
                                         <graphic url="http://www.europeana.eu/portal/record/2020903/KAS101.html/caesar.jpg" /><!-- FIX URL!!!! -->
                                         <head>Gauis Iulius Caesar</head>
                                         <figDesc>Head of Gauis Iulius Caesar</figDesc>
-                                        <bibl>
-                                            <availability>
-                                                <licence target="http://creativecommons.org/licenses/by/3.0/" notBefore="2013-01-01">
-                                                    Attribution 3.0 Unported (CC BY 3.0)
-                                                </licence>
-                                            </availability>
-                                        </bibl>
+                                        <note type="source"></note>
+                                        <note type="availability"></note>
                                     </figure>
                                     <note type="fingertip">
                                         <p>Gaius Julius Caesar was a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.</p>
@@ -127,11 +122,8 @@
                                         <graphic url="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg"></graphic>
                                         <head>Emperor Claudius</head>
                                         <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
-                                        <bibl>
-                                            <availability>
-                                                <licence>Creative Commons Attribution-Share Alike 3.0 Unported license</licence>
-                                            </availability>
-                                        </bibl>
+                                        <note type="source"></note>
+                                        <note type="availability"></note>
                                     </figure>
                                 </person>
                                 <person xml:id="c_aul_plat">
@@ -183,13 +175,8 @@
                                             <graphic url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Castle_Richborough_Fort_interior_ruins_Richborough_Kent_England_1.jpg"></graphic>
                                             <head>Ruins Richboroug fort</head>
                                             <figDesc>View taken in June 2005 of outer defensive works and one wall of Richborough Fort in Kent.</figDesc>
-                                            <bibl>
-                                                <availability>
-                                                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/" notBefore="2013-01-01">
-                                                        By Acabashi (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
-                                                    </licence>
-                                                </availability>
-                                            </bibl>
+                                            <note type="source"></note>
+                                            <note type="availability"></note>
                                         </figure>
                                     </note>
                                     <note type="fingertip">Cornwall is a county of England, in the south-west part of Great Britain.</note>
@@ -207,13 +194,8 @@
                                             <graphic url="http://www.europeana.eu/portal/record/2022317/E13A33BB55579B88F3574BF7AFEB16BEDEE52098.html"></graphic>
                                             <head>Ruins Richboroug fort</head>
                                             <figDesc>The ancient village of Chysauster was occupied in the first centuries AD, at a time when Cornwall was under Roman control.</figDesc>
-                                            <bibl>
-                                                <availability>
-                                                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/" notBefore="2013-01-01">
-                                                        Copyright English Heritage.NMR http://www.europeana.eu/rights/rr-f <!-- ??? -->
-                                                    </licence>
-                                                </availability>
-                                            </bibl>
+                                            <note type="source"></note>
+                                            <note type="availability"></note>
                                         </figure>
                                     </note>                                   
                                 </place>

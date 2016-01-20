@@ -52,11 +52,11 @@
                   Documentation: `listPerson`
                 - [Prosopography](http://wiki.tei-c.org/index.php/Prosopography)
                 - Encodes:
-                  + name (@gender, @role)
+                  + name (@gender, @role) >
                   + date of birth, date of death (optionally)
-                  + note
-                  + note
-                  + note
+                  + note @type="fingertip small"
+                  + note @type=""
+                  + note @type=""
                   + is accomapnied by a `fingertip` note that is a short description of the person
             -->
                 <listPerson xml:id="listOfPersons">
@@ -69,14 +69,13 @@
                             13 October 54 AD (Rome,Italy)
                         </death>
                         <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.</note>
-                        <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
                         <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note>
                         <figure>
                             <graphic url="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg"></graphic>
                             <head>Emperor Claudius</head>
                             <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
-                            <note type="source"></note>
-                            <note type="availability"></note>
+                            <note type="source">Wikipedia</note>
+                            <note type="availability">Attribution 2.5 Generic (CC BY 2.5)</note>
                         </figure>
                     </person>
                     <person xml:id="c_aul_plat">
@@ -91,7 +90,6 @@
                     <person xml:id="c_gai_sue_tra">
                         <persName>
                             Gaius Suetonius Tranquillus
-                            
                         </persName>
                     </person>
                 </listPerson>
@@ -111,8 +109,6 @@
                 </head>
                 <listPlace>
                     <!-- BRITAIN -->
-                    <!-- Place example: large -->
-                    <!-- place example: small -->
                     <place xml:id="pl_cornwall">
                         <placeName>Cornwall (aka Cornwall, Kernow, Belerion) </placeName>
                         <desc></desc>

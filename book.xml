@@ -82,7 +82,8 @@
                     <back xmlns="http://www.tei-c.org/ns/1.0" xml:id="backmatter">
                         <div>
                             <head>List of Characters</head>
-                            <!-- Documentation: `listPerson`
+                            <!-- ## PERSONS
+                              Documentation: `listPerson`
                             - [Prosopography](http://wiki.tei-c.org/index.php/Prosopography)
                             - Encodes:
                               + name (multiple types)
@@ -114,13 +115,15 @@
                                             <country key="IT">Italy</country>
                                         </placeName>
                                     </death>
+                                    <note type="fingertip_small">a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. I</note>
+                                    <note type="fingetip_big"></note><!-- if available -->
+                                    <note type="search_keys">Julius Caesar, Gauis Iulius Caesar</note>
                                     <figure>
                                         <graphic url="http://www.europeana.eu/portal/record/2020903/KAS101.html" />
                                         <head>Gauis Iulius Caesar</head>
                                         <figDesc>Head of Gauis Iulius Caesar</figDesc>
                                         <bibl>
                                             <availability>
-                                                <licence></licence>
                                                 <licence target="http://creativecommons.org/licenses/by/3.0/" notBefore="2013-01-01">
                                                     Attribution 3.0 Unported (CC BY 3.0)
                                                 </licence>
@@ -131,134 +134,51 @@
                                         <p>Gaius Julius Caesar was a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.</p>
                                     </note>
                                 </person>
+                                <!-- SMALL example -->
                                 <person xml:id="c_tib_claud" sex="m" role="emperor">
                                     <persName>Tiberius Claudius Caesar Augustus Germanicus</persName>
-                                    <note type="fingertip_small">
-                                        In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.
-                                    </note>
-                                    <note type="unedited">
-                                        Canonical Name : Tiberius Claudius Caesar Augustus Germanicus
-                                        Birth name : Tiberius Claudius Nero
-                                        Cognomen: Caesar
-                                        Cognomen: Nero (which he had adopted as paterfamilias of the Claudii Nerones when his brother Germanicus was adopted out)
-                                        Honorific: Germanicus (to display the connection with his heroic brother)
-                                        Gender: M
-                                        Religion/Belief: Roman Paganism
-                                        Birthplace: Lugdunum in Gaul (now Lyon, France)
-                                        Place of Death: Rome, Italy
-                                        Dates (birth/death)
-                                        - birth :1 August 10 BC
-                                        - other important in between dates: # 24 January 41 AD– 13 October 54 AD= 4th Emperor of the Roman Empire
-                                        # In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.
-                                        Claudius himself travelled to the island after the completion of initial offensives, b
-                                        - death: 13 October 54 AD
-                                        - Relations to other persons mentioned in the text:
-                                        - Note (small, fingertip): In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.
-                                        Notes (Expanded - ie Bio)
-                                        Media
-                                        - Media Source : Wikipedia
-                                        - Link : https://en.wikipedia.org/wiki/File:Claudius_crop.jpg
-                                        - Title : Bust of Emperor Claudius
-                                        - Caption : Emperor Claudius
-                                        - Rights :  public domain
-                                        - Note(s) about media / resource :
-                                        - optional media
-                                        - Media Source : Wikimedia
-                                        - Link :https://commons.wikimedia.org/wiki/File:Roman_baths_claudius_01.JPG
-                                        - Title :  Emperor Claudius
-                                        - Caption : Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.
-                                        - Rights :  Creative Commons Attribution-Share Alike 3.0 Unported license.
-                                        - Note(s) about media / resource :
-                                    </note>
+                                    <birth>
+                                        1 August 10 BC
+                                        <placeName>Lugdunum (now Lyon)</placeName>
+                                        <country>Gaul (now France)</country>
+                                    </birth>
+                                    <death>
+                                        13 October 54 AD
+                                        <placeName>Rome</placeName>
+                                        <country>Italy</country>
+                                    </death>
+                                    <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons. Claudius himself travelled to the island, bringing with him reinforcements and elephant; the latter made an impression on the Britons when they were displayed in the large tribal centre of Camulodunum, modern day Colchester. The Roman colonia of Colonia Claudia Victricensis was established as the provincial capital of the newly established province of Britannia at Camulodunum, where a large Temple was dedicated in his honour. The Senate granted him a triumph for his efforts. He was granted the honorific "Britannicus.</note>
+                                    <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
+                                    <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note>
+                                    <figure>
+                                        <graphic url="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg"></graphic>
+                                        <head>Emperor Claudius</head>
+                                        <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
+                                        <bibl>
+                                            <availability>
+                                                <licence>Creative Commons Attribution-Share Alike 3.0 Unported license</licence>
+                                            </availability>
+                                        </bibl>
+                                    </figure>
                                 </person>
                                 <person xml:id="c_aul_plat">
                                     <persName>Aulus Plautius</persName>
-                                    <note>
-                                        Gender: M
-                                        Religion/Belief:
-                                        Birthplace:
-                                        Place of Death:
-                                        Dates (birth/death)
-                                        - birth :
-                                        - other important in between dates: 43 AC =  he lead the invasion of Britannia
-                                        47-43 AC = He began the Roman conquest of Britain  and became the first governor of the new province
-                                        - death:
-                                        Relations to other persons mentioned in the text:  he was sent from Claudius with four legions to Britain in order to subdue the Island
-                                        Note (small, fingertip) : 1st governor of Roman Britain
-                                        Notes (Expanded - ie Bio)
-                                        Media
-                                        - Media Source :
-                                        - Link :
-                                        - Title :
-                                        - Caption :
-                                        - Rights :
-                                        - Note(s) about media / resource :
-                                        - optional media
-                                        - Media Source + Link + Rights (ie europeana)
-                                        - Note(s) about media / resource
-                                    </note>
                                 </person>
                                 <person xml:id="c_pub_ost_sca">
                                     <persName>
                                         Publius Ostorius Scapula
                                     </persName>
-                                    <note>
-                                        Canonical Name : Publius Ostorius Scapula
-                                        Gender: M
-                                        Religion/Belief:
-                                        Birthplace:
-                                        Place of Death:
-                                        Dates (birth/death)
-                                        - birth :
-                                        - other important in between dates:  47-52 AD = 2nd governor of Roman Britain
-                                        - death: 52 AD
-                                        Relations to other persons mentioned in the text: he succeed Aulus Plautius
-                                        Note (small, fingertip) : second governor of Roman Britain 47-52 AD
-                                        Notes (Expanded - ie Bio)
-                                        Media
-                                        - Media Source : wikimedia
-                                        - Link : https://commons.wikimedia.org/wiki/File:Roman_baths_ostorius_01.JPG
-                                        - Title : Publius Ostorius Scapula
-                                        - Caption : Statue of Publius Ostorius Scapula on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.
-                                        - Rights :  Creative Commons Attribution-Share Alike 3.0 Unported license.
-                                        - Note(s) about media / resource :
-                                        - optional media
-                                        - Media Source + Link + Rights (ie europeana)
-                                        - Note(s) about media / resource
-                                    </note>
+                                    
                                 </person>
                                 <person xml:id="c_gai_sue_tra">
                                     <persName>
                                         Gaius Suetonius Tranquillus
-                                        <note>
-                                            Canonical Name : Gaius Suetonius Tranquillus
-                                            Gender: M
-                                            Religion/Belief:
-                                            Birthplace:  ? Hippo Regius, Roman Africa (modern Annaba, Algeria)?
-                                            Place of Death:
-                                            Dates (birth/death)
-                                            - birth : 69 AD
-                                            - other important in between dates:
-                                            - death:  c. 140 AD
-                                            Relations to other persons mentioned in the text:  he fight with Bodacea
-                                            Note (small, fingertip) : Roman administrator and historian belonging to the equestrian order who wrote during the early Imperial era of the Roman Empire. His most notable work is a set of biographies of twelve successive Roman rulers, from Julius Caesar to Domitian, entitled "De Vita Caesarum".
-                                            Notes (Expanded - ie Bio)
-                                            Media
-                                            - Media Source : Europeana
-                                            - Link :  http://www.europeana.eu/portal/record/92093/BibliographicResource_1000086146701.html
-                                            - Title : Portrait of Gaius Suetonius Tranquillus
-                                            - Caption : Portrait of Gaius Suetonius Tranquillus
-                                            - Rights :  http://creativecommons.org/publicdomain/mark/1.0/
-                                            - Note(s) about media / resource
-                                            - optional media
-                                            - Media Source + Link + Rights (ie europeana)
-                                            - Note(s) about media / resource
-                                        </note>
+                                        
                                     </persName>
                                 </person>
                             </listPerson>
                         </div>
-                        <!-- PLACES
+                        <!-- ## PLACES
                           - [13.2.3 Place Names](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPLAC)
                           - [13.2.3.3 Relative Placenames](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPLR)
                            - Encodes:
@@ -272,6 +192,8 @@
                             <head>List of places: Places and locations mentioned in the book.
                             </head>
                             <listPlace>
+                                <!-- BRITAIN -->
+                                <!-- Place example: large -->
                                 <place xml:id="pl_kent">
                                     <placeName xml:lang="en">Kent</placeName>
                                     <!-- @when: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.datable.w3c.html-->
@@ -281,8 +203,9 @@
                                         <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-geo.html -->
                                         <geo>51.1949374 -0.1822119</geo>
                                     </location>
+                                    <note type="search_keys">Cantium, Kent</note>
                                     <!-- WATCH OUT! -->
-                                    <note type="place_media">
+                                    <note type="media_place">
                                         <figure>
                                             <graphic url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Castle_Richborough_Fort_interior_ruins_Richborough_Kent_England_1.jpg"></graphic>
                                             <head>Ruins Richboroug fort</head>
@@ -298,9 +221,35 @@
                                     </note>
                                     <note type="fingertip">Cornwall is a county of England, in the south-west part of Great Britain.</note>
                                 </place>
+                                <!-- place example: small -->
+                                <place xml:id="pl_cornwall">
+                                    <placeName>Cornwall (aka Cornwall, Kernow, Belerion) </placeName>
+                                    <desc></desc>
+                                    <location>
+                                        <geo>50.503632 -4.652498</geo>
+                                    </location>
+                                    <note type="media_place">
+                                        <figure>
+                                            <!-- FIX: media URL -->
+                                            <graphic url="http://www.europeana.eu/portal/record/2022317/E13A33BB55579B88F3574BF7AFEB16BEDEE52098.html"></graphic>
+                                            <head>Ruins Richboroug fort</head>
+                                            <figDesc>The ancient village of Chysauster was occupied in the first centuries AD, at a time when Cornwall was under Roman control.</figDesc>
+                                            <bibl>
+                                                <availability>
+                                                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/" notBefore="2013-01-01">
+                                                        Copyright English Heritage.NMR http://www.europeana.eu/rights/rr-f <!-- ??? -->
+                                                    </licence>
+                                                </availability>
+                                            </bibl>
+                                        </figure>
+                                    </note>                                   
+                                </place>
+                                <!-- ITALY -->
+                                <!-- FRANCE -->
+                                <!-- OTHER -->
                             </listPlace>
                         </div>
-                        <!-- OBJECTS -->
+                        <!-- ## OBJECTS -->
                         <div xml:id="objects">
                             <head>
                                 <label>List of Objects:</label> A comprehensive list of objects mentioned in the book.

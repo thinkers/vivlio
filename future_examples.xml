@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+     <back>
+        <div>
+           <listPerson>
+              <person xml:id="c_julius_caesar" sex="m" age="adult" role="emperor">
+                 <persName xml:lang="en" sort="1">Julius Caesar</persName>
+                 <persName xml:lang="la" sort="2">Gauis Iulius Caesar</persName>
+                 <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-birth.html -->
+                 <birth when="-0100-07-13">
+                    13 July 100 BC
+                    <placeName>
+                       <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-settlement.html -->
+                       <settlement type="city">Rome,</settlement>
+                       <!--http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-country.html -->
+                       <country key="IT">Italy</country>
+                    </placeName>
+                 </birth>
+                 <death when="-0044-04-15">
+                    15 March 44 BC
+                    <placeName>
+                       <settlement type="city">Rome</settlement>
+                       <country key="IT">Italy</country>
+                    </placeName>
+                 </death>
+                 <note type="fingertip_small">a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. I</note>
+                 <note type="fingetip_big"></note><!-- if available -->
+                 <note type="search_keys">Julius Caesar, Gauis Iulius Caesar</note>
+                 <figure>
+                    <graphic url="http://www.europeana.eu/portal/record/2020903/KAS101.html/caesar.jpg" /><!-- FIX URL!!!! -->
+                    <head>Gauis Iulius Caesar</head>
+                    <figDesc>Head of Gauis Iulius Caesar</figDesc>
+                    <note type="source"></note>
+                    <note type="availability"></note>
+                 </figure>
+                 <note type="fingertip">
+                    <p>Gaius Julius Caesar was a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.</p>
+                 </note>
+              </person>
+           </listPerson>
+        </div>
+        <div>
+           <listPlace>
+              <place xml:id="pl_kent">
+                 <placeName xml:lang="en">Cantium (Kent)</placeName>
+                 <!-- @when: http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.datable.w3c.html-->
+                 <!--<placeName xml:lang="la" notBefore="-0051">Cantium</placeName>-->
+                 <desc>Kent is a country in South East England with a long history of human occupation.</desc>
+                 <location>
+                    <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-geo.html -->
+                    <geo>51.1949374 -0.1822119</geo>
+                 </location>
+                 <note type="search_keys">Cantium, Kent</note>
+                 <!-- WATCH OUT! -->
+                 <note type="media_place">
+                    <figure>
+                       <graphic url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Castle_Richborough_Fort_interior_ruins_Richborough_Kent_England_1.jpg"></graphic>
+                       <head>Ruins Richboroug fort</head>
+                       <figDesc>View taken in June 2005 of outer defensive works and one wall of Richborough Fort in Kent.</figDesc>
+                       <note type="source"></note>
+                       <note type="availability"></note>
+                    </figure>
+                 </note>
+                 <note type="fingertip">Cornwall is a county of England, in the south-west part of Great Britain.</note>
+              </place>
+           </listPlace>
+        </div>
+     </back>
+  </text>
+</TEI>

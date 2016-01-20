@@ -97,13 +97,13 @@
                                 <!-- full example of a `person` entry -->
                                 <person xml:id="c_julius_caesar" sex="m" age="adult" role="emperor">
                                     <persName xml:lang="en" sort="1">Julius Caesar</persName>
-                                    <persName xml:lang="la">Gauis Iulius Caesar</persName>
+                                    <persName xml:lang="la" sort="2">Gauis Iulius Caesar</persName>
                                     <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-birth.html -->
                                     <birth when="-0100-07-13">
                                         13 July 100 BC
                                         <placeName>
                                             <!-- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-settlement.html -->
-                                            <settlement type="city">Rome</settlement>
+                                            <settlement type="city">Rome,</settlement>
                                             <!--http://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-country.html -->
                                             <country key="IT">Italy</country>
                                         </placeName>
@@ -119,7 +119,7 @@
                                     <note type="fingetip_big"></note><!-- if available -->
                                     <note type="search_keys">Julius Caesar, Gauis Iulius Caesar</note>
                                     <figure>
-                                        <graphic url="http://www.europeana.eu/portal/record/2020903/KAS101.html" />
+                                        <graphic url="http://www.europeana.eu/portal/record/2020903/KAS101.html/caesar.jpg" /><!-- FIX URL!!!! -->
                                         <head>Gauis Iulius Caesar</head>
                                         <figDesc>Head of Gauis Iulius Caesar</figDesc>
                                         <bibl>

@@ -87,6 +87,8 @@
                         <note type="fingertip_small"></note>
                         <note type="search_keys">Caesar, Julius Caesar</note>
                         <figure>
+                            <head></head> <!-- use as alt text -->
+                            <figDesc></figDesc> <!-- use as caption -->
                             <graphic url="media/c_julius_caesar.jpg"></graphic>
                         </figure>
                         <note type="source" source="http://www.wikipedia.org/" >Wikipedia</note>
@@ -379,7 +381,7 @@
                                 <graphic url="media/pl_cornwall.jpg"></graphic>
                                 <head>Chysauster, Cornwall</head>
                                 <figDesc>The ancient village of Chysauster was occupied in the first centuries AD, at a time when Cornwall was under Roman control.</figDesc>
-                                <note type="source">Europeana</note>
+                                <note type="source" source="http://europeana.eu/">Europeana</note>
                                 <note type="availability">Rights Reserved - Free Access</note>
                             </figure>
                         </note>                                   
@@ -770,12 +772,12 @@
                         <name>Earthware</name>
                         <figure>
                             <graphic url="media/objects/earthware.jpg" />
-                            <head></head><!-- + alt of image -->
-                            <figDesc></figDesc> <!-- + caption of image -->
+                            <head>Items made of clay</head><!-- + alt of image -->
+                            <figDesc>A plate and a cup made of clay.</figDesc> <!-- + caption of image -->
                             <note type="source" source="http://wikimedia.org">Wikimedia</note>
                             <note type="availabilty"> By Acabashi (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons</note>
                         </figure>
-                        <note type="fingertip_small"></note> <!-- + Encoding Change: replaces older version `desc` -->
+                        <note type="fingertip_small">Pottery made from clay </note> <!-- + Encoding Change: replaces older version `desc` -->
                     </item>
                     <item xml:id="ob_cattle">
                         <name>Cattle</name>

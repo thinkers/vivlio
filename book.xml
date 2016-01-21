@@ -62,21 +62,19 @@
             -->
                 <listPerson xml:id="listOfPersons">
                     <person xml:id="c_julius_caesar">
-                        <persName>Julius Caesar</persName>
-                        <birth>Rome</birth>
-                        <death>Rome</death>
+                        <persName>Julius Caesar (Gauis Iulius Caesar)</persName>
+                        <birth>13 July 100 BC, Rome - Italy</birth>
+                        <death>15 March 44 BC, Rome Italy</death>
+                        <note type="fingertip_small"></note>
+                        <note type="search_keys">Caesar, Julius Caesar</note>
                         <figure>
-                            <graphic url=""></graphic>
+                            <graphic url="media/c_julius_caesar.jpg"></graphic>
                         </figure>
                     </person>
                     <person xml:id="c_tib_claud" sex="m" role="emperor">
                         <persName>Tiberius Claudius Caesar Augustus Germanicus</persName>
-                        <birth> <!-- + -->
-                            1 August 10 BC Lugdunum (Lyon France)
-                        </birth>
-                        <death> <!-- + -->
-                            13 October 54 AD (Rome,Italy)
-                        </death>
+                        <birth>1 August 10 BC Lugdunum (Lyon France)</birth><!-- + -->
+                        <death>13 October 54 AD (Rome,Italy)</death> <!-- + -->
                         <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.</note>
                         <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note> <!-- used for European XML Queries -->
                         <figure>
@@ -95,7 +93,6 @@
                         <persName>
                             Publius Ostorius Scapula
                         </persName>
-                        
                     </person>
                     <person xml:id="c_gai_sue_tra">
                         <persName>
@@ -156,7 +153,7 @@
                             <note type="source">Wikimedia</note>
                             <note type="availabilty"> By Acabashi (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons</note>
                         </figure>
-                        <note type="fingertip"></note> <!-- + Encoding Change: replaces older version `desc` -->
+                        <note type="fingertip_small"></note> <!-- + Encoding Change: replaces older version `desc` -->
                     </item>
                 </list>
             </div>

@@ -366,10 +366,11 @@
                     <!-- BRITAIN -->
                     <place xml:id="pl_cornwall">
                         <placeName>Cornwall (aka Cornwall, Kernow, Belerion) </placeName>
-                        <desc></desc>
                         <location>
                             <geo>50.503632 -4.652498</geo>
                         </location>
+                        <note type="fingertip_small">This is Cornwall</note>
+                        <note type="search_keys">Cornwall</note>
                         <note type="media_place">
                             <figure>
                                 <!-- FIX: media URL -->

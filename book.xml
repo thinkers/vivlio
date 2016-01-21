@@ -373,10 +373,10 @@
                         <note type="media_place">
                             <figure>
                                 <!-- FIX: media URL -->
-                                <graphic url="http://www.europeana.eu/portal/record/2022317/E13A33BB55579B88F3574BF7AFEB16BEDEE52098.html"></graphic>
+                                <graphic url="media/pl_cornwall"></graphic>
                                 <head>Ruins Richboroug fort</head>
-                                <figDesc>The ancient village of Chysauster was occupied in the first centuries AD, at a time when Cornwall was under Roman control.</figDesc>
-                                <note type="source"></note>
+                                <figDesc>The ncient village of Chysauster was occupied in the first centuries AD, at a time when Cornwall was under Roman control.</figDesc>
+                                <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cornwall_UK_locator_map_2010.svg/640px-Cornwall_UK_locator_map_2010.svg.png?1453396777780">Wikimedia</note>
                                 <note type="availability"></note>
                             </figure>
                         </note>                                   

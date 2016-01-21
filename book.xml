@@ -70,34 +70,268 @@
                         <figure>
                             <graphic url="media/c_julius_caesar.jpg"></graphic>
                         </figure>
+                        <note type="source" source="http://www.wikipedia.org/" >Wikipedia</note>
+                        <note type="availability">Attribution 2.5 Generic (CC BY 2.5)</note>
                     </person>
                     <person xml:id="c_tib_claud" sex="m" role="emperor">
-                        <persName>Tiberius Claudius Caesar Augustus Germanicus</persName>
-                        <birth>1 August 10 BC Lugdunum (Lyon France)</birth><!-- + -->
-                        <death>13 October 54 AD (Rome,Italy)</death> <!-- + -->
-                        <note type="fingertip_small">In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.</note>
-                        <note type="search_keys">Tiberius, Tiberius Claudius Caesar Augustus Germanicus</note> <!-- used for European XML Queries -->
+                        <persName>
+                            Tiberius Claudius Caesar Augustus Germanicus
+                        </persName>
+                        <birth>
+                            1 August 10 BC Lugdunum (Lyon France)
+                        </birth><!-- + -->
+                        <death>
+                            13 October 54 AD (Rome,Italy)
+                        </death> <!-- + -->
+                        <note type="fingertip_small">
+                            In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.
+                        </note>
+                        <note type="search_keys">
+                            Tiberius, Tiberius Claudius Caesar Augustus Germanicus
+                        </note> <!-- used for Europeana API Queries -->
                         <figure>
-                            <!-- https://en.wikipedia.org/wiki/File:Claudius_crop.jpg" -->
                             <graphic url="media/c_tib_claud.jpg"></graphic>
                             <head>Emperor Claudius</head>
                             <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
-                            <note type="source">Wikipedia</note>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg" >Wikipedia</note>
                             <note type="availability">Attribution 2.5 Generic (CC BY 2.5)</note>
                         </figure>
                     </person>
-                    <person xml:id="c_aul_plat">
+                    <person xml:id="c_aul_plaut" sex="m" role="emperor">
                         <persName>Aulus Plautius</persName>
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            (Unknown)
+                        </death>
+                        <note type="fingertip_small">Aulus Plautius was a Roman politician and general of the mid-1st century. He was the first to successully defeat the Britons in 43, and became the first governor of the new province, serving from 43 to 47.
+                        </note>
+                        <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
+                        <note type="search_keys">Aulus Plautius</note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head>The departure of the Romans from Britain, illustration from The History of the Nation</head>
+                            <figDesc>The departure of the Romans from Britain, illustration from The History of the Nation" oil on Canvas.</figDesc>
+                            <note type="source" source="http://www.wikigallery.org/wiki/painting_243084/Henry-A.-%28Harry%29-Payne/The-departure-of-the-Romans-from-Britain%2C-illustration-from-The-History-of-the-Nation">Wikigallery</note>
+                            <note type="availability"> Public Domain</note>
+                        </figure>
                     </person>
-                    <person xml:id="c_pub_ost_sca">
-                        <persName>
-                            Publius Ostorius Scapula
-                        </persName>
+                    <person xml:id="c_plub_ostor" sex="m" role="emperor">
+                        <persName>Publius Ostorius Scapula</persName>
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            Winter 52 AD (South Wales)
+                        </death>
+                        <note type="fingertip_small"> Publius Ostorius Scapula succeed Aulus Plautius as 2nd governor of Roman Britain (47-52 AD)
+                        </note>
+                        <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
+                        <note type="search_keys">Publius Ostorius Scapula</note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head>Statue of Publius Ostorius Scapula</head>
+                            <figDesc>Statue of Publius Ostorius Scapula on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.</figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Roman_baths_ostorius_01.JPG">Wikimedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License </note>      
+                        </figure>
                     </person>
-                    <person xml:id="c_gai_sue_tra">
-                        <persName>
-                            Gaius Suetonius Tranquillus
-                        </persName>
+                    <person xml:id="c_gauis_suet" sex="m" role="emperor">
+                        <persName>Gaius Suetonius Tranquillus</persName>
+                        <birth> 
+                            69 AD (Hippo Regius, Roman Africa (modern Annaba, Algeria) (uncertain)
+                        </birth>
+                        <death> 
+                            after 122 AD,  c. 140 AD  (Unknown)
+                        </death>
+                        <note type="fingertip_small">Roman administrator and historian belonging to the equestrian order who wrote during the early Imperial era of the Roman Empire. His most notable work is a set of biographies of twelve successive Roman rulers, from Julius Caesar to Domitian, entitled "De Vita Caesarum  and published in 11 AD. In 121 he was promoted to secretary of the imperial correspondence</note>
+                        <note type="relations"> Gaius Suetonius Tranquillus fight with Bodacea.</note>
+                        <note type="search_keys">Gaius Suetonius Tranquillus</note>
+                        <figure>
+                            <graphic url=" "></graphic>
+                            <head>Portrait of Gaius Suetonius Tranquillus</head>
+                            <figDesc>Portrait of Gaius Suetonius Tranquillus</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/92093/BibliographicResource_1000086146701.html">Europeana</note>
+                            <note type="availability"> Public Domain </note>  
+                        </figure>
+                    </person>
+                    <person xml:id="c_cat_dec" sex="m" role="emperor">
+                        <persName>Catus Decianus </persName>
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            (Unknown)
+                        </death>
+                        <note type="fingertip_small"> Tacitus was the procurator of Roman Britain (60 -61 AD) . He blames his "rapacity" in part for provoking the rebellion of Boudica. When Boudica's army attacked Camulodunum (Colchester), the inhabitants sent to the procurator for help, but he sent only two hundred men. </note><note type="relations"> Gaius Suetonius Tranquillus fight with Bodacea.</note>
+                        <note type="search_keys">Catus Decianus </note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head></head>
+                            <figDesc></figDesc>
+                            <note type="source"></note>     
+                            <note type="availability"> </note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_publ_ael_handr" sex="m" role="emperor">
+                        <persName>Publius Aelius Hadrianus Augustus </persName>
+                        <birth> 
+                            24 January 76 AD (Italica, Hispania Baetica (most likely), Rome (acoording to him) )
+                        </birth>
+                        <death> 
+                            10 July 138 (Baiae)
+                        </death>
+                        <note type="fingertip_small"> Hadrianus reigned from 10 August 117 till 10 July 138. Known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma. An ardent admirer of Greece, he sought to make Athens the cultural capital of the Empire and ordered the construction of many opulent temples in the city. One of the Five Good Emperors.
+                        </note>
+                        <note type="search_keys">Hadrianus, Publius Aelius Hadrianus Augustus  </note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head>Emperor Hadrian</head>
+                            <figDesc>Statue of Emperor Hadrian on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.
+                            </figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Roman_baths_hadrian_01.JPG">Wikimedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License </note>
+                        </figure>
+                        <!--  <figure>
+            <graphic url=" http://www.europeana.eu/portal/record/2048007/Athena_Plus_ProvidedCHO_Hallwylska_museet_9945.html " ></graphic>
+            <head>Arc d'Hadrian, Athènes</head>
+            <figDesc>Arc d'Hadrian, Athènes </figDesc>
+            <note type="source">Europeana</note>
+            <note type="availability">Public Domain </note>
+        </figure> -->
+                    </person>
+                    <person xml:id="c_marc_aur_sever" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Severus Antoninus Augustus</persName>
+                        <birth> 
+                            4 April 188 AD  (Lugdunum)
+                        </birth>
+                        <death> 
+                            8 April 217 AD (On the road between Edessa and Carrhae)
+                        </death>
+                        <note type="fingertip_small">  He was emperor of Roman Empire (198 – 8 April 217) </note>
+                        <note type="search_keys">Caracalla, Marcus Aurelius Severus Antoninus Augustus</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head>Portrait of young Caracalla </head>
+                            <figDesc>Portrait of young Caracalla  </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2020903/KAS1234.html"> Europeana</note>
+                            <note type="availability">Public Domain </note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_marc_aur_maus" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Mausaeus Valerius Carausius</persName>
+                        <birth> 
+                            n.d.(Gallia Belgica)
+                        </birth>
+                        <death> 
+                            293 AD (Britain)
+                        </death>
+                        <note type="fingertip_small">He was emperor of Brittanic  Empire (286–293 AD) .Originated from  Belgic Gaul he who was appointed as a military commander of the Roman Empire, and  his command had been sea-based. He usurped power in 286, during the Carausian Revolt, declaring himself emperor in Britain and northern Gaul.
+                        </note>
+                        <note type="search_keys">Marcus Aurelius Mausaeus Valerius Carausius</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> Carausius</head>
+                            <figDesc>Coin with Carausius' head  </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2023828/eMuseumPlus_service_ExternalInterface_module_collection_objectId_1799085.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_flav_honor" sex="m" role="emperor">
+                        <persName>Flavius Honorius Augustus</persName>
+                        <birth> 
+                            9 September 384 (Constantinople)
+                        </birth>
+                        <death> 
+                            15 August 423 (Ravenna, Italia)
+                        </death>
+                        <note type="fingertip_small">He was emperor of Western Roman Empire (23 January 393 – 15 August 423) </note>
+                        <note type="search_keys">Flavius Honorius Augustus</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> emperor Honorius</head>
+                            <figDesc>Consular diptych of Probus Anicius, consul in 406, depicting emperor Honorius. Photograph from Ludwig von Sybel, Christliche Antike, vol. 2, Marburg, 1909.
+                            </figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Consular_diptych_Probus_406.jpg"> Wikipedia </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_luc_sept_sev" sex="m" role="emperor">
+                        <persName>Lucius Septimius Severus Augustus</persName>
+                        <birth> 
+                            11 April 145 (Lucania)
+                        </birth>
+                        <death> 
+                            4 February 211 
+                        </death>
+                        <note type="fingertip_small">He was emperor of the Roman Empire  (193 - 211) </note>
+                        <note type="search_keys">Lucius Septimius Severus Augustus</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> Wall of Severus</head>
+                            <figDesc>An unknown artist's engraving depicting the wall of Severus. The Wall of Severus was possibly a defensive fortification built by the Roman Emperor Septimius Severus (reigned AD 193-211) in Britannia during the emperor's campaign there.
+                            </figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:WallOfSeverusEngraving1854.jpg"> Wikipedia </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <!--BRITISH  -->
+                    <person xml:id="c_cassiv" sex="m" role="emperor">
+                        <persName>Cassivellaunus</persName>
+                        <birth> 
+                            11 April 145 (Lucania)
+                        </birth>
+                        <death> 
+                            4 February 211 
+                        </death>
+                        <note type="fingertip_small"> A historical British tribal chief who led the defence against Julius Caesar's second expedition to Britain in 54 BC. He made an impact on the British consciousness and he appears in British and welsh legends and traditions.
+                            Cassivellaunus led the defence against Julius Caesar's second expedition to Britain (54 BC). </note>
+                        <note type="search_keys">Cassivellaunus, Cassibelanus, Caswallawn</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> </head>
+                            <figDesc></figDesc>
+                            <note type="source">  </note>
+                            <note type="availability"></note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_caratac" sex="m" role="emperor">
+                        <persName> Caratacus </persName>
+                        <birth> 
+                            c. 10 AD (probably in Catuvellauni territory)
+                        </birth>
+                        <death> 
+                            c. 50 AD  (Rome)
+                        </death>
+                        <note type="fingertip_small"> British chieftain of the Catuvellauni tribe, who led the British resistance to the Roman conquest. He resisted the Romans for almost a decade,and after his final defeat, he was captured and handed over to the Romans. He sentenced to death as a military prisoner, but made a speech before his execution that persuaded the Emperor Claudius to spare him.
+                            He was king of the Britons and the Catuvellauni (1st century, to c.50 AD )</note>
+                        <note type="search_keys"> Caratacus </note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> Head of Caractacus</head>
+                            <figDesc>William Blake Visionary Head of Caractacus. Тhe Visionary Heads is a series of black chalk and pencil drawings produced by William Blake after 1818 by request of John Varley, the watercolour artist and astrologer
+                            </figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:William_Blake_Visionary_Head_of_Caractacus_-contrast_increased.jpg"> Wikipedia </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_boudic" sex="f" role="emperor">
+                        <persName> Boudica </persName>
+                        <birth>      
+                        </birth>
+                        <death> 
+                            c. 60 or 61 AD (Britannia)
+                        </death>
+                        <note type="fingertip_small"> Queen of the Iceni, a Brittonic tribe of eastern Britain during the Iron Age and early Roman era. </note>
+                        <note type="search_keys"> Boudica, Boudicca,  Boadicea , Buddug </note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head> Boadicea destroying London by fire </head>
+                            <figDesc>Boadicea destroying London by fire    </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/92033/BibliographicResource_3000053591331.html"> Europeana</note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
                     </person>
                 </listPerson>
             </div>
@@ -150,10 +384,110 @@
                             <graphic url="media/objects/earthware.jpg" />
                             <head></head><!-- + alt of image -->
                             <figDesc></figDesc> <!-- + caption of image -->
-                            <note type="source">Wikimedia</note>
+                            <note type="source" source="http://wikimedia.org">Wikimedia</note>
                             <note type="availabilty"> By Acabashi (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons</note>
                         </figure>
                         <note type="fingertip_small"></note> <!-- + Encoding Change: replaces older version `desc` -->
+                    </item>
+                    <item xml:id="ob_cattle">
+                        <name>Cattle</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Cattle</head>
+                            <figDesc>Ireland has a wide variety of cattle. Specific breeds of cattle are used for milk production and others for beef.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_horses">
+                        <name>Horses</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Horses</head>
+                            <figDesc>Street sounds with horses' hooves on road surface (Chelmsford Avenue, Cheltenham)</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/9200257/BibliographicResource_3000055619168.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_mistletoe">
+                        <name>Mistletoe</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Mistletoe tree</head>
+                            <figDesc>Street sounds with horses' hooves on road surface (Chelmsford Avenue, Cheltenham)</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11628/_FOTO_AM_UNITS_ITALY_44824.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_moss">
+                        <name>Moss</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Salicornia dolichostachya Moss</head>
+                            <figDesc>Salicornia dolichostachya Moss</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_corn">
+                        <name>Corn</name>
+                        <figure>
+                            <graphic url="https://en.wikipedia.org/wiki/File:GEM_corn.jpg " />
+                            <head>Corn</head>
+                            <figDesc>variety of Corns</figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:GEM_corn.jpg"> Wikipedia</note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_earthenware">
+                        <name>Earthenware</name>
+                        <figure>
+                            <graphic url="http://europeana.eu/portal/record/2022324/290426.html " />
+                            <head> Iron Age Vessel</head>
+                            <figDesc> 
+                                Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Coarse soft fabric with an soapy feel. Reduced fired, light grey core, buff inner 'skin' and dark grey outer skin. Inclusions of white sands, and non-crystalline cream, grey and orange. Height of handle 41.5mm, min width of handle (outer edge) 21.8mm, Internal diameter 11mm, weight 53.1g.David Knight (Trent and Peak Archaeology Unit) writes:Very nice example of a strap handle, which I would suspect is probably Iron Age. You can find parallels in LBA and IA assemblages across the East Midlands and eastern England (as well as farther south). Most examples fit within an IA context (e.g. the handle from a middle IA Scored Ware assemblage from Market Deeping, Lincs, no.23) but rare examples are known in LBA contexts (e.g. post Deverel-Rimbury Plainware jar from Isleham Cambs (in this case containing a Wilburton stage bronze hoard, so well dated)</figDesc>
+                            <note type="source" source="http://europeana.eu/portal/record/2022324/290426.html"> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip">Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Example of how pottery of the era looks like nowadays.</note> 
+                    </item>
+                    <item xml:id="ob_swords">
+                        <name>Swords</name>
+                        <figure>
+                            <graphic url="http://www.europeana.eu/portal/record/2022324/189524.html" />
+                            <head> Iron Age Miniature sword.</head>
+                            <figDesc>Cast copper alloy miniature sword.The sword is flat, undecorated and made from one piece of copper alloy. The blade is slender, elongated and has a rounded tip. The handle and pommel are missing.</figDesc> 
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/189524.html"> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip">Cast copper alloy miniature sword. The sword is flat, undecorated and made from one piece of copper alloy. The blade is slender, elongated and has a rounded tip. The handle and pommel are missing.
+                        </note> </item>
+                    <item xml:id="ob_daggers">
+                        <name>Daggers</name>
+                        <figure>
+                            <graphic url="http://www.europeana.eu/portal/record/2022324/399309.html " />
+                            <head> Early Iron Age copper alloy dagger </head>
+                            <figDesc> A Late Bronze Age / Early Iron Age copper alloy dagger blade, circa 900-700BC</figDesc>
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/399309.html "> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip"></note>
+                    </item>
+                    <item xml:id="ob_spears">
+                        <name>Spears</name>
+                        <figure>
+                            <graphic url="http://www.europeana.eu/portal/record/2022324/97731.html " />
+                            <head> Bronze Age spear  </head>
+                            <figDesc> The tip from a broken Bronze Age spear, circa 800 BC </figDesc>
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/97731.html "> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip"></note>
                     </item>
                 </list>
             </div>

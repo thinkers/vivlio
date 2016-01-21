@@ -386,10 +386,10 @@
                     </place>
                      <place xml:id="pl_penzance">
                <placeName>Penzance, Cornwall</placeName>
-               <note type="fingeript_small">Penzance is a town, civil parish and port in Cornwall, in England.</note>
                <location>
                   <geo>50.10586 -5.54554</geo>
                </location>
+               <note type="fingeript_small">Penzance is a town, civil parish and port in Cornwall, in England.</note>          
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/2048419/item_V74X25YPAIHVOD7A2BWXYZI24BMLP4CG.html"></graphic>
@@ -403,10 +403,10 @@
             
             <place xml:id="pl_kent">
                <placeName>Kent (Cantium)</placeName>
-               <note type="fingeript_small">Kent is a country in South East England with a long history of human occupation.</note>
                <location>
                   <geo>51.1949374 0.1822119</geo>
                </location>
+               <note type="fingeript_small">Kent is a country in South East England with a long history of human occupation.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Ruins_Richborough_Fort_%28Rutupiae%29.jpg"></graphic>
@@ -417,13 +417,12 @@
                   </figure>
                </note>                                   
             </place>
-            
             <place xml:id="pl_ireland">
                <placeName>Ireland (Eire, Airlann)</placeName>
-               <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
                <location>
                   <geo>53.0360895 -17.1358564</geo>
                </location>
+                <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Uragh_Stone_Circle.jpg"></graphic>
@@ -434,13 +433,12 @@
                   </figure>
                </note>                                   
             </place>
-            
             <place xml:id="pl_stonehenge">
                <placeName>Stonehenge</placeName>
-               <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
                <location>
                   <geo>51.178880 -1.826219</geo>
                </location>
+                <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/2022317/B2F7D8D53139B60D5993D1BED1973A0D69591624.html"></graphic>
@@ -461,37 +459,37 @@
                </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2020708/uid_iid_2490247_DR_529_1.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Druidic ceremonies at Stonehenge</head>
                         <figDesc>Druidic ceremonies at Stonehenge prior to dawn on the summer solstice, 1976</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2020708/uid_iid_2490247_DR_529_1.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2020708/uid_iid_2490218_DR_82_1.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Stonehenge Heel Stone</head>
                         <figDesc>The Heel Stone of Stonehenge.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2020708/uid_iid_2490218_DR_82_1.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2051908/data_euscreenXL_ina_I14015805.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Stonehenge</head>
                         <figDesc>Video view of Stonehenge.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2051908/data_euscreenXL_ina_I14015805.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.ccma.cat/tv3/alacarta/programa/titol/video/3517730/#"></graphic>
+                     <graphic url=""></graphic>
                      <head>Stonehenge</head>
                         <figDesc>Video of modern time visitors in the Stonehenge ruins.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.ccma.cat/tv3/alacarta/programa/titol/video/3517730/#">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
@@ -499,10 +497,10 @@
             
             <place xml:id="pl_canterbury">
                <placeName>Canterbury (Durovernum Cantiacorum)</placeName>
-               <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
                <location>
                   <geo>51.283371 1.079215</geo>
                </location>
+               <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG"></graphic>
@@ -525,10 +523,10 @@
             
             <place xml:id="pl_chertsey">
                <placeName>Chertsey (Cirotisege, Cerotesege)</placeName>
-               <note type="fingeript_small">Chertsey was one of the oldest market towns in England.</note>
                <location>
                   <geo>51.386615 -0.509465</geo>
                </location>
+               <note type="fingeript_small">Chertsey was one of the oldest market towns in England.</note> 
                <note type="media_place">
                   <figure>
                      <graphic url="https://en.wikipedia.org/wiki/Chertsey#/media/File:Chertsey_Bridge,_between_Chertsey_and_Laleham_(19_November_2005).jpg"></graphic>
@@ -542,10 +540,10 @@
             
             <place xml:id="pl_surrey">
                <placeName>Surrey</placeName>
-               <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
                <location>
                   <geo>51.2661875 -1.5136747</geo>
                </location>
+               <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://en.wikipedia.org/wiki/Stane_Street_(Chichester)#/media/File:Stane_Street_at_Eartham_Woods.JPG"></graphic>
@@ -559,10 +557,10 @@
             
             <place xml:id="pl_hertfordshire">
                <placeName>Hertfordshire (Heort ford)</placeName>
-               <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note>
                <location>
                   <geo>51.8347747 -1.3934209</geo>
                </location>
+               <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
                <note type="media_place">
                   <figure>
                      <graphic url="https://en.wikipedia.org/wiki/History_of_Hertfordshire#/media/File:Devil%27s_Dyke_Hertfordshire_sign.jpg"></graphic>
@@ -573,13 +571,12 @@
                   </figure>
                </note>                                   
             </place>
-            
             <place xml:id="pl_anglesey">
                <placeName>Island of Anglesey</placeName>
-               <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
                <location>
                   <geo>53.2770416 -4.8734052</geo>
                </location>
+               <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)#/media/File:Cromlech_at_Plas_Newydd_in_Anglesey.jpeg"></graphic>
@@ -590,13 +587,12 @@
                   </figure>
                </note>                                   
             </place>
-            
             <place xml:id="pl_norfolk">
                <placeName>Norfolk (Norðfolc, Nordfolc)</placeName>
-               <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
                <location>
                   <geo>52.6687479 -0.1714611</geo>
                </location>
+               <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://en.wikipedia.org/wiki/History_of_Norfolk#/media/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg"></graphic>
@@ -610,10 +606,11 @@
             
             <place xml:id="pl_suffolk">
                <placeName>Suffolk</placeName>
-               <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
+               
                <location>
                   <geo>52.2355148 -0.0665338</geo>
                </location>
+               <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_Wakefield_Council_WAKGMP___P1999_1968.html"></graphic>
@@ -625,12 +622,13 @@
                </note>                                   
             </place>
             
-            <place xml:id="pl_northumberland">
+            <place xml:id="pl_northumberland1">
                <placeName>Northumberland</placeName>
-               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
+               
                <location>
                   <geo>55.2954456 -2.6355857</geo>
                </location>
+               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html"></graphic>
@@ -644,10 +642,10 @@
             
             <place xml:id="pl_northumberland">
                <placeName>Northumberland</placeName>
-               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <location>
                   <geo>55.2954456 -2.6355857</geo>
                </location>
+               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html"></graphic>
@@ -661,10 +659,11 @@
             
             <place xml:id="pl_kits_coty">
                <placeName>Kits Coty House (Kit's Coty, Kits Coity)</placeName>
-               <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
+               
                <location>
                   <geo>51.319338, 0.504931</geo>
                </location>
+               <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/2022317/DDE4B2E9565139718B91F141B8B5C44865926A38.html"></graphic>
@@ -687,10 +686,11 @@
             
             <place xml:id="pl_bluebell_hill">
                <placeName>Bluebell Hill</placeName>
-               <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
+               
                <location>
                   <geo>51.3349681, 0.4788975</geo>
                </location>
+                <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/1/17/Bluebell_Hill_view_point_-_geograph.org.uk_-_56032.jpg "></graphic>
@@ -704,10 +704,11 @@
             
             <place xml:id="pl_st_albans">
                <placeName>Saint Albans (Verulamium , Verlamchester, Wæclingacaester)</placeName>
-               <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
+               
                <location>
                   <geo>51.7472736 -0.3493187</geo>
                </location>
+                <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG"></graphic>
@@ -721,10 +722,11 @@
             
             <place xml:id="pl_salisbury">
                <placeName>Salisbury Plain</placeName>
-               <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
+               
                <location>
                   <geo>51.3227298 -2.4860678</geo>
                </location>
+                <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG"></graphic>
@@ -738,10 +740,11 @@
             
             <place xml:id="pl_maidstone">
                <placeName>Maidstone</placeName>
-               <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
+               
                <location>
                   <geo>51.2627597 0.4500384 </geo>
                </location>
+                <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/2024904/photography_ProvidedCHO_TopFoto_co_uk_EU030794.html"></graphic>

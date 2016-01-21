@@ -411,6 +411,17 @@
                         </figure>
                         <note type="fingertip"></note> 
                     </item>
+                    <item xml:id="ob_horses1">
+                        <name>Horses</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Horses trotting down the road</head>
+                            <figDesc>Street sounds with horses' hooves on road surface.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Horses have been and are still bred throughout Britain and served in everyday and military transportation. </note>
+                    </item>
                     <item xml:id="ob_mistletoe">
                         <name>Mistletoe</name>
                         <figure>
@@ -425,7 +436,7 @@
                     <item xml:id="ob_moss">
                         <name>Moss</name>
                         <figure>
-                            <graphic url="" />
+                            <graphic url=")" />
                             <head>Salicornia dolichostachya Moss</head>
                             <figDesc>Salicornia dolichostachya Moss</figDesc>
                             <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html"> Europeana</note>
@@ -433,10 +444,21 @@
                         </figure>
                         <note type="fingertip"></note> 
                     </item>
+                    <item xml:id="ob_moss1">
+                        <name>Moss</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Salicornia dolichostachya - Moss</head>
+                            <figDesc>Specimen of typical moss.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Moss is typical growth in the humid and cold British climate.</note>
+                    </item>
                     <item xml:id="ob_corn">
                         <name>Corn</name>
                         <figure>
-                            <graphic url="https://en.wikipedia.org/wiki/File:GEM_corn.jpg " />
+                            <graphic url="" />
                             <head>Corn</head>
                             <figDesc>variety of Corns</figDesc>
                             <note type="source" source="https://en.wikipedia.org/wiki/File:GEM_corn.jpg"> Wikipedia</note>
@@ -488,6 +510,142 @@
                             <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
                         </figure>
                         <note type="fingertip"></note>
+                    </item>
+                    <item xml:id="ob_cattle1">
+                        <name>Cattle</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Irish cattle</head>
+                            <figDesc>Charolais and Belgian Blue Cattle in Ireland</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Ireland has a wide variety of cattle. Specific breeds are used for milk production and others for beef.</note> 
+                    </item>
+                    <item xml:id="ob_oak">
+                        <name>Oak</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Montgomery Oaks</head>
+                            <figDesc>Old Oak tree at Sheffield</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022302/2D498901FCB95513E8E9CC9A6217DB930CAC39BE.html">Europeana</note>
+                            <note type="availability"> Rights Reserved - Free Access </note>
+                        </figure>
+                        <note type="fingertip">Oaks are indigenous in Britain and have a connection with aniccent religion and folklore.</note>
+                    </item>
+                    <item xml:id="ob_eartenhware">
+                        <name>Earthenware</name>
+                        <figure>
+                            <graphic url="http://europeana.eu/portal/record/2022324/290426.html" />
+                            <head>Iron Age vessel</head>
+                            <figDesc>Prehistoric pottery vessel shard</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">The vessel was also probaby covered in leather.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_sword">
+                        <name>Sword</name>
+                        <figure>
+                            <graphic url=""/>
+                            <head>Iron Age Miniature Object</head>
+                            <figDesc>Cast copper alloy miniature sword.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/189524.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Small, undecorated sword made of a copper alloy, from the Iron Age.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_dagger">
+                        <name>Dagger</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Brone Age dagger</head>
+                            <figDesc>A late Bronze Age/early Iron Age copper alloy dagger.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/399309.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">A smaller lightweight weapon.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_spear">
+                        <name>Spear</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Bronze Age spear</head>
+                            <figDesc>Tip of a broken spear from the Bronze Age.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/97731.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">The tip of a Briton's spear from the Bronze Age.</note> 
+                    </item>
+                    <item xml:id="ob_chariot">
+                        <name>Chariot</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age coin</head>
+                            <figDesc>An Iron Age coin, depicting a horse chariot.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/310206.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">This Roman coin depicts a two horse chariot of the Iron Age.</note> 
+                    </item>
+                    <item xml:id="ob_shield">
+                        <name>Shield</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age shield</head>
+                            <figDesc>Decorative piece from an Iron Age shield.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/395017.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Piece of a light shield of copper, from the Iron Age.</note> 
+                    </item>
+                    <item xml:id="ob_scythe">
+                        <name>Scythe</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Scythe</head>
+                            <figDesc>A corroded scythe.</figDesc>
+                            <note type="source" source="http://ichef-1.bbci.co.uk/news/660/media/images/70441000/jpg/_70441827_potgate-ironsickle.jpg">BBC</note>
+                            <note type="availability">Orphan work</note>
+                        </figure>
+                        <note type="fingertip">Farming tool used by the Britons.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_rings">
+                        <name>Metal Rings</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Ring Money</head>
+                            <figDesc>A copper alloy penannular ring, possibly ring money and dating to the Iron Age.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/442428.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Plain metal rings were used by indigenous Britons as currency, before the Roman invasion.</note> 
+                    </item>
+                    <item xml:id="ob_wine">
+                        <name>Wine</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age coin</head>
+                            <figDesc>Obverse wine amphora held by two figures, one on each side.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/310201.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Iron Age coin, depicting an amphora of wine.</note> 
+                    </item>
+                    <item xml:id="ob_serpents_egg">
+                        <name>Serpent's Egg.</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Hagstone</head>
+                            <figDesc>A naturally-occuring hagstone.</figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Feuerstein_mit_Loch-Huehnergott.jpg#/media/File:Feuerstein_mit_Loch-Huehnergott.jpg">Wikipedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                        </figure>
+                        <note type="fingertip">"Serpent's Egg" is Adder stone or hag stone, also known in Gaelic as "Druid's Glass".</note> 
                     </item>
                 </list>
             </div>

@@ -1049,7 +1049,7 @@
                     <item xml:id="ob_wine">
                         <name>Wine</name>
                         <figure>
-                            <graphic url="" />
+                            <graphic url="media/ob_wine.jpg" />
                             <head>Iron Age coin</head>
                             <figDesc>Obverse wine amphora held by two figures, one on each side.</figDesc>
                             <note type="source" source="http://www.europeana.eu/portal/record/2022324/310201.html">Europeana</note>

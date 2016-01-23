@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="book">
+                <head>A Child’s History of England</head>
+                <div xml:id="c1" n="I" type="chapter">
+                    <head>CHAPTER I—ANCIENT ENGLAND AND THE ROMANS</head>
+                    <milestone n="Prehistoric England" xml:id="ch1sc1" unit="scene"/>
+                    <note type="mDate" n="d1">
+                        <date>Before 55 BC</date>
+                    </note>
+                    <note type="mSummary">Early pre-roman Britain</note>
+                    <anchor xml:id="ch1sc1an1" n="Introduction"/>
+                    
+                    
+                    <p>If you look at a Map of the World, you will see, in the left-hand upper corner of the Eastern Hemisphere, two Islands lying in the sea. They are England and Scotland, and Ireland. England and Scotland form the greater part of these Islands. Ireland is the next in size. The little neighbouring islands, which are so small upon the Map as to be mere dots, are chiefly little bits of Scotland,—broken off, I dare say, in the course of a great length of time, by the power of the restless water.</p>
+                    <p><time>In the old days, a long, long while ago, before <rs type="religion">Our Saviour</rs> was born on earth and lay asleep in a manger</time>, these Islands were in the same place, and the stormy sea roared round them, just as it roars now. But the sea was not alive, then, with great ships and brave sailors, sailing to and from all parts of the world. It was very lonely. The Islands lay solitary, in the great expanse of water. The foaming waves dashed against their cliffs, and the bleak winds blew over their forests; but the winds and waves brought no adventurers to land upon the Islands, and the savage <rs type="tribe">Islanders</rs> knew nothing of the rest of the world, and the rest of the world knew nothing of them.</p>
+                    <anchor xml:id="ch1sc1an2" n="Phoenician trade"/>
+                    <p>It is supposed that the <rs type="tribe">Phoenicians</rs>, who were an ancient people, famous for carrying on trade, came in ships to these Islands, and found that they produced tin and lead; both very useful things, as you know, and both produced to this very hour upon the sea-coast. The most celebrated tin mines in <rs type="placeRef" ref="#pl_cornwall">Cornwall</rs> are, still, close to the sea. One of them, which I have seen, is so close to it that it is hollowed out underneath the ocean; and the miners say, that in stormy weather, when they are at work down in that deep place, they can hear the noise of the waves thundering above their heads. So, the Phoenicians, coasting about the Islands, would come, without much difficulty, to where the tin and lead were.</p>
+                    <p>The Phoenicians traded with the Islanders for these metals, and gave the Islanders some other useful things in exchange. The Islanders were, at first, poor savages, going almost naked, or only dressed in the <rs type="obRef">rough skins of beasts</rs>, and staining their bodies, as other savages do, with coloured earths and the juices of plants. But the Phoenicians, sailing over to the opposite coasts of <rs type="placeRef">France</rs> and <rs type="placeRef">Belgium</rs>, and saying to the people there, ‘We have been to those white cliffs across the water, which you can see in fine weather, and from that country, which is called <hi rend="smallcap">Britain</hi>, we bring this tin and lead,’ tempted some of the French and Belgians to come over also. These people settled themselves on the south coast of England, which is now called <rs type="placeRef" ref="#pl_kent">Kent</rs>; and, although they were a rough people too, they taught the savage Britons some useful arts, and improved that part of the Islands. It is probable that other people came over from <rs type="placeRef">Spain</rs> to <rs type="placeRef" ref="#pl_ireland">Ireland</rs>, and settled there.</p>
+                    <p>Thus, by little and little, strangers became mixed with the Islanders, and the savage Britons grew into a wild, bold people; almost savage, still, especially in the interior of the country away from the sea where the foreign settlers seldom went; but hardy, brave, and strong.</p>
+                    <anchor xml:id="ch1sc1an3" n="Geography and Material Culture"/>
+                    <p>The whole country was covered with <rs type="geo">forests</rs>, and <rs type="geo">swamps</rs>. The greater part of it was very misty and cold. There were no roads, no bridges, no streets, no houses that you would think deserving of the name.<seg> A <rs type="placeRef">town</rs> was nothing but a collection of <rs type="obRef">straw-covered huts</rs>, hidden in a thick wood, with a ditch all round, and a low wall, made of mud, or the trunks of trees placed one upon another</seg>. <seg>The people planted little or no <rs type="obRef" ref="#ob_corn">corn</rs>, but lived upon the flesh of their <rs type="obRef">flocks</rs> and <rs type="obRef" ref="#ob_cattle">cattle</rs>.</seg> They made no coins, but used <rs type="obRef" ref="#ob_rings">metal rings</rs> for money. They were clever in <seg>basket-work</seg>, as savage people often are; and they could make a coarse kind of cloth, and some very bad <rs type="obRef" ref="#ob_earthenware">earthenware</rs>. But in building fortresses they were much more clever.</p>
+                    <p>They made <rs type="obRef">boats</rs> of basket-work, covered with the <rs type="obRef">skins of animals</rs>, but seldom, if ever, ventured far from the shore. They made <rs type="obRef" ref="#ob_sword">swords</rs>, of copper mixed with tin; but, these swords were of an awkward shape, and so soft that a heavy blow would bend one. They made light <rs type="obRef" ref="#ob_shield">shields</rs>, short pointed <rs type="obRef" ref="#ob_dagger">daggers</rs>, and <rs type="obRef" ref="#ob_spears">spears</rs><rs type="obTrait" ref="#ob_spear">—which they jerked back after they had thrown them at an enemy, by a long strip of leather fastened to the stem. The butt-end was a rattle, to frighten an enemy’s horse.</rs> The ancient Britons, being divided into as many as thirty or forty <rs type="tribe">tribes</rs>, each commanded by its own little king, were constantly fighting with one another, as savage people usually do; and they always fought with these weapons.</p>
+                    
+                    <p>They were very fond of <rs type="obRef" ref="#ob_horses">horses</rs>. The standard of Kent was the picture of a <rs type="obRef" ref="#ob_horses">white horse</rs>. They could break them in and manage them wonderfully well. Indeed, the horses (of which they had an abundance, though they were rather small) were so well taught in those days, that they can scarcely be said to have improved since; though the men are so much wiser. They understood, and obeyed, every word of command; and would stand still by themselves, in all the din and noise of battle, while their masters went to fight on foot. The Britons could not have succeeded in their most remarkable art, without the aid of these sensible and trusty animals. The art I mean, is the construction and management of <rs type="obRef" ref="#ob_chariot">war-chariots</rs> or cars, for which they have ever been celebrated in history. <seg><rs type="obTrait" ref="#ob_chariot">Each of the best sort of these chariots, not quite breast high in front, and open at the back, contained one man to drive, and two or three others to fight—all standing up.</rs> The horses who drew them were so well trained, that they would tear, at full gallop, over the most stony ways, and even through the woods; dashing down their masters’ enemies beneath their hoofs, and cutting them to pieces with the blades of swords, or <rs type="obRef" ref="#ob_scythe">scythes</rs>, which were fastened to the wheels, and stretched out beyond the car on each side, for that cruel purpose. In a moment, while at full speed, the horses would stop, at the driver’s command. The men within would leap out, deal blows about them with their swords like hail, leap on the horses, on the pole, spring back into the chariots anyhow; and, as soon as they were safe, the horses tore away again.</seg></p>
+                    <anchor xml:id="ch1sc1an4" n="Religion of the Druids"/>
+                    <p>The Britons had a strange and terrible religion, called the <rs type="religion">Religion of the Druids</rs>. It seems to have been brought over, in very early times indeed, from the opposite country of France, anciently called <rs type="placeRef">Gaul</rs>, and to have mixed up the worship of the <rs type="religion">Serpent</rs>, and of the <rs>Sun and Moon</rs>, with the worship of some of the <rs type="religion">Heathen Gods</rs> and <rs type="religion">Goddesses</rs>. Most of its ceremonies were kept secret by the priests, the <rs type="religion">Druids</rs>, who pretended to be enchanters, and who carried magicians’ <rs type="obRef">wands</rs>, and wore, each of them, about his neck, what he told the ignorant people was a <rs type="obRef" ref="#ob_serpents_egg">Serpent’s egg</rs> in a golden case. But it is certain that the <seg type="religion">Druidical ceremonies included the sacrifice of human victims, the torture of some suspected criminals, and, on particular occasions, even the burning alive, in immense <rs type="obRef">wicker cages</rs>, of a number of men and animals together</seg>. The Druid Priests had some kind of veneration for <rs>the Oak</rs>, and for the <rs type="obRef" ref="#ob_mistletoe">mistletoe</rs>—the same plant that we hang up in houses at Christmas Time now—when its white berries grew upon the Oak. They met together in dark woods, which they called <rs type="placeRef">Sacred Groves</rs>; and there they instructed, in their mysterious arts, young men who came to them as pupils, and who sometimes stayed with them as long as twenty years.</p>
+                    
+                    <p>These Druids built great <rs>Temples</rs> and <rs>altars</rs>, open to the sky, fragments of some of which are yet remaining. <rs type="placeRef" ref="#pl_stonehenge">Stonehenge</rs>, on <rs ref="#pl_salisbury">Salisbury Plain</rs>, in Wiltshire, is the most extraordinary of these. Three curious stones, called <rs type="placeRef" ref="#pl_kits_coty">Kits Coty House</rs>, on <rs type="placeRef" ref="#pl_bluebell_hill">Bluebell Hill</rs>, near <rs type="placeRef" ref="#pl_maidstone">Maidstone</rs>, in <rs type="placeRef" ref="#pl_kent">Kent</rs>, form another. We know, from examination of the great blocks of which such buildings are made, that they could not have been raised without the aid of some ingenious machines, which are common now, but which the ancient Britons certainly did not use in making their own uncomfortable houses. <seg type="religion">I should not wonder if the Druids, and their pupils who stayed with them twenty years, knowing more than the rest of the Britons, kept the people out of sight while they made these buildings, and then pretended that they built them by magic.</seg> Perhaps they had a hand in the fortresses too; at all events, as they were very powerful, and very much believed in, and as they made and executed the laws, and paid no taxes, I don’t wonder that they liked their trade. And, as they persuaded the people the more Druids there were, the better off the people would be, I don’t wonder that there were a good many of them. But it is pleasant to think that there are no Druids, <hi rend="italics">now</hi>, who go on in that way, and pretend to carry Enchanters’ Wands and Serpents’ Eggs—and of course there is nothing of the kind, anywhere.</p>
+                    <milestone n="Roman England" xml:id="ch1sc2" unit="scene"/>
+                    <note type="mDate" n="d1">
+                        <date>55 BC</date>
+                    </note>
+                    <anchor xml:id="ch2sc1an1" n="Julius Caesar Invasion"/>
+                    <p>Such was the improved condition of the ancient Britons,<time> fifty-five years before the birth of Our Saviour</time>, when the <rs type="tribe">Romans</rs>, under their great General, <rs type="persRef" ref="#c_julius_caesar">Julius Cæsar</rs>, were masters of all the rest of the known world. Julius Cæsar had then just conquered Gaul; and hearing, in Gaul, a good deal about the opposite Island with the white cliffs, and about the bravery of the Britons who inhabited it—some of whom had been fetched over to help the Gauls in the war against him—he resolved, as he was so near, to come and conquer Britain next.</p>
+                    <p>So, Julius Cæsar came sailing over to this Island of ours,<seg> with eighty vessels and twelve thousand men</seg>. And he came from the French coast between <rs type="placeRef">Calais</rs> and <rs type="placeRef">Boulogne</rs>, <hi>‘because thence was the shortest passage into Britain;’</hi> just for the same reason as our steam-boats now take the same track, every day. He expected to conquer Britain easily: but it was not such easy work as he supposed—<seg>for the bold Britons fought most bravely;</seg> and, what with not having his horse-soldiers with him (for they had been driven back by a storm), and what with having some of his vessels dashed to pieces by a high tide after they were drawn ashore, he ran great risk of being totally defeated. However, for once that the bold Britons beat him, he beat them twice; though not so soundly but that he was very glad to accept their proposals of peace, and go away.</p>
+                    
+                    <p>But, in the spring of the next year, he came back; this time, with <rs>eight hundred vessels</rs> and <rs>thirty thousand men</rs>. The British tribes chose, as their general-in-chief, a Briton, whom the Romans in their Latin language called <rs type="persRef" ref="#c_cassiv">
+                            <hi rend="smallcap">Cassivellaunus</hi></rs>, but whose British name is supposed to have been <hi rend="smallcap">Caswallon</hi>. <rs type="persTrait" ref="#c_cassiv">A brave general he was</rs>, and well he and his soldiers fought the Roman army! So well, that whenever in that war the Roman soldiers saw a great cloud of dust, and heard the rattle of the rapid British chariots, they trembled in their hearts. Besides a number of smaller battles, there was a<seg> battle fought near <rs type="placeRef" ref="#pl_canterbury">Canterbury</rs>, in Kent;</seg> there was a battle fought near <rs type="placeRef" ref="#pl_chertsey">Chertsey</rs>, in <rs type="placeRef" ref="#pl_surrey">Surrey</rs>; there was a battle fought near a marshy little town in a wood, the capital of that part of Britain which belonged to <hi rend="smallcap">Cassivellaunus</hi>, and which was probably near what is now <rs type="placeRef" ref="#pl_st_albans">Saint Albans</rs>, in <rs type="placeRef" ref="#pl_hertfordshire">Hertfordshire</rs>. However, <rs type="obTrait" ref="#c_cassiv">brave</rs>
+                        <hi rend="smallcap">Cassivellaunus</hi> had the worst of it, on the whole; though he and his men always fought like lions. As the other British chiefs were jealous of him, and were always quarrelling with him, and with one another, he gave up, and proposed peace. Julius Cæsar was very glad to grant peace easily, and to go away again with all his remaining ships and men. He had expected to find pearls in Britain, and he may have found a few for anything I know; but, at all events, he found delicious oysters, and I am sure he found tough Britons—of whom, I dare say, he made the same complaint as Napoleon Bonaparte the great French General did, eighteen hundred years afterwards, when he said they were such unreasonable fellows that they never knew when they were beaten. They never <hi rend="italics">did</hi> know, I believe, and never will.</p>
+                    <anchor xml:id="ch2sc1an2" n="Towards the Great Wall"/>
+                    <p>Nearly a hundred years passed on, and all that time, there was peace in Britain. <seg>The Britons improved their towns and mode of life: became more civilised, travelled, and learnt a great deal from the Gauls and Romans.</seg> At last, the Roman Emperor, <rs type="persRef" ref="#c_tib_claud">Claudius</rs>, sent <rs type="persRef" ref="#c_aul_plaut"><hi rend="smallcap">Aulus Plautius</hi> </rs>, a skilful general, with a mighty force, to subdue the Island, and shortly afterwards arrived himself. They did little; and <rs type="persRef" ref="#c_publ_ostor"><hi rend="smallcap">Ostorius Scapula</hi></rs>, another general, came. Some of the British Chiefs of Tribes submitted. Others resolved to fight to the death. Of these brave men, the <rs type="persTrait">bravest</rs> was <rs type="persRef" ref="#c_caratac"><hi rend="smallcap">Caractacus</hi></rs>, or <hi rend="smallcap">Caradoc</hi>, who gave battle to the Romans, with his army, among the mountains of <rs type="placeRef">North Wales</rs>. <said>‘This day,’</said> said he to his soldiers, <said>‘decides the fate of Britain! Your liberty, or your eternal slavery, dates from this hour. Remember your brave ancestors, who drove the great Cæsar himself across the sea!’ </said>On hearing these words, his men, with a great shout, rushed upon the Romans. But the strong Roman swords and armour were too much for the weaker British weapons in close conflict. The Britons lost the day. The wife and daughter of the brave <hi rend="smallcap">Caractacus</hi> were taken prisoners; his brothers delivered themselves up; he himself was betrayed into the hands of the Romans by his false and base stepmother: and they carried him, and all his family, in triumph to Rome.</p>
+                    <p><seg>But a great man will be great in misfortune, great in prison, great in chains. His noble air, and dignified endurance of distress, so touched the Roman people who thronged the streets to see him, that he and his family were restored to freedom.</seg> No one knows whether his great heart broke, and he died in Rome, or whether he ever returned to his own dear country. <time>English oaks have grown up from acorns, and withered away, when they were hundreds of years old—and other oaks have sprung up in their places, and died too, very aged—</time>since the rest of the history of the brave <hi rend="smallcap">Caractacus</hi> was forgotten.</p>
+                    <p>Still, the Britons <hi rend="italics">would not</hi> yield. They rose again and again, and died by thousands, sword in hand. They rose, on every possible occasion. <rs type="persRef" ref="#c_gauis_suet"><hi rend="smallcap">Suetonius</hi></rs>, another Roman general, came, and stormed the <rs type="placeRef" ref="#pl_anglesey">Island of Anglesey</rs> (then called <hi rend="smallcap">Mona</hi>), which was supposed to be sacred, and he <seg>burnt the Druids in their own wicker cages, by their own fires</seg>. But, even while he was in Britain, with his victorious troops, the <hi rend="smallcap">Britons</hi> rose. Because <rs type="persRef"><hi rend="smallcap">Boadicea</hi></rs>, a British queen, the widow of the King of the <rs type="placeRef" ref="#pl_norfolk">Norfolk</rs> and <rs type="placeRef" ref="#pl_suffolk">Suffolk</rs> people, resisted the plundering of her property by the Romans who were settled in England, she was scourged, by order of <rs type="persRef"><hi rend="smallcap">Catus</hi></rs> a Roman officer; and her two daughters were shamefully insulted in her presence, and her husband’s relations were made slaves. To avenge this injury, the Britons rose, with all their might and rage. They drove <rs type="persRef"><hi rend="smallcap">Catus</hi></rs> into Gaul; they laid the Roman possessions waste; they forced the Romans out of London, then a poor little town, but a trading place; they hanged, burnt, crucified, and slew by the sword, seventy thousand Romans in a few days. <hi rend="smallcap">Suetonius</hi> strengthened his army, and advanced to give them battle. They strengthened their army, and desperately attacked his, on the field where it was strongly posted. Before the first charge of the Britons was made, <hi rend="smallcap">Boadicea</hi>, <rs type="persTrait">in a war-chariot, with her fair hair streaming in th e wind, and her injured daughters lying at her feet</rs>, drove among the troops, and cried to them for vengeance on their oppressors, the licentious Romans. The Britons fought to the last; but they were vanquished with great slaughter, and the unhappy queen took poison.</p>
+                    <p>Still, the spirit of the Britons was not broken. When <hi rend="smallcap">Suetonius</hi> left the country, they fell upon his troops, and retook the Island of Anglesey. <rs type="persRef"><hi rend="smallcap">Agricola</hi></rs> came,<time> fifteen or twenty years afterwards,</time> and retook it once more, and devoted seven years to subduing the country, especially that part of it which is now called <hi rend="smallcap">Scotland</hi>; but, its people, the <rs type="tribe">Caledonians</rs>, resisted him at every inch of ground. They fought the bloodiest battles with him; they killed their very wives and children, to prevent his making prisoners of them; they fell, fighting, in such great numbers that certain hills in Scotland are yet supposed to be vast heaps of stones piled up above their graves. <rs type="persRef"><hi rend="smallcap">Hadrian</hi></rs> came, <time>thirty years afterwards</time>, and still they resisted him. <hi rend="smallcap">Severus</hi> came, <time>nearly a hundred years afterwards</time>, and they worried his great army like dogs, and rejoiced to see them die, by thousands, in the bogs and swamps. <rs type="persRef"><hi rend="smallcap">Caracalla</hi></rs>, the son and successor of <rs type="persRef" ref="#c_marc_aur_sever"><hi rend="smallcap">Severus</hi></rs>, did the most to conquer them, for a time; but not by force of arms. He knew how little that would do. He yielded up a quantity of land to the Caledonians, and gave the Britons the same privileges as the Romans possessed. There was peace, after this, for seventy years.</p>
+                    <anchor xml:id="ch2sc1an3" n="The first Saxons"/>
+                    <p>Then new enemies arose. They were the <rs type="tribe">Saxons</rs>, a fierce, sea-faring people from the countries to the <rs type="placeRef">North of the Rhine</rs>, the great river of Germany on the banks of which the best grapes grow to make the <rs type="obRef" ref="#ob_wine">German wine</rs>. They began to come, in pirate ships, to the sea-coast of Gaul and Britain, and to plunder them. They were repulsed by <rs type="persRef"><hi rend="smallcap">Carausius</hi></rs>, a native either of Belgium or of Britain, who was appointed by the Romans to the command, and under whom the Britons first began to fight upon the sea. But, after this time, they renewed their ravages. A few years more, and the <rs type="tribe">Scots</rs> (which was then the name for the people of Ireland), and the <rs type="tribe">Picts</rs>, a northern people, began to make frequent plundering incursions into the South of Britain. All these attacks were repeated, at intervals, during two hundred years, and through a long succession of Roman Emperors and chiefs; during all which length of time, the Britons rose against the Romans, over and over again. At last, in the days of the Roman <rs type="persRef" ref="c_flav_honor"><hi rend="smallcap">Honorius</hi></rs>, when the Roman power all over the world was fast declining, and when Rome wanted all her soldiers at home, the Romans abandoned all hope of conquering Britain, and went away. And still, at last, as at first, the Britons rose against them, in their old brave manner; for, a very little while before, they had turned away the Roman magistrates, and declared themselves an independent people.</p>
+                    <anchor xml:id="ch2sc1an4" n="The Roman legagy"/>
+                    <p><time>Five hundred years had passed</time>, since Julius Cæsar’s first invasion of the Island, when the Romans departed from it for ever. <seg>In the course of that time, although they had been the cause of terrible fighting and bloodshed, they had done much to improve the condition of the Britons. They had made great <rs type="obRef" ref="#ob_mil_roads">military roads</rs>; they had built <rs type="obRef">forts</rs>; they had taught them how to dress, and arm themselves, much better than they had ever known how to do before; they had refined the whole British way of living. <rs type="persRef"><hi rend="smallcap">Agricola</hi></rs> had built <rs type="placeRef" ref="#pl_hadrian_wall">a great wall of earth</rs>, <rs type="obTrait">more than seventy miles long, extending from Newcastle to beyond Carlisle</rs>, for the purpose of keeping out the Picts and Scots; <hi rend="smallcap">Hadrian</hi> had strengthened it; <rs type="persRef" ref="#c_marc_aur_sever"><hi rend="smallcap">Severus</hi></rs>, finding it much in want of repair, had built it afresh of stone.</seg></p>
+                    <p>Above all, it was in the Roman time, and by means of Roman ships, that the <seg type="religion">Christian Religion</seg> was first brought into Britain, and its people first taught the great lesson that, <seg>to be good in the sight of <hi rend="smallcap">God</hi>, they must love their neighbours as themselves, and do unto others as they would be done by</seg>. The Druids declared that it was very wicked to believe in any such thing, and cursed all the people who did believe it, very heartily. But, when the people found that they were none the better for the blessings of the Druids, and none the worse for the curses of the Druids, but, that <seg>the sun shone and the rain fell without consulting the Druids at all</seg>, they just began to think that the Druids were mere men, and that it signified very little whether they cursed or blessed. After which, the pupils of the Druids fell off greatly in numbers, and the Druids took to other trades.</p>
+                    <p>Thus I have come to the end of the Roman time in England. It is but little that is known of those five hundred years; but some remains of them are still found. Often, when labourers are digging up the ground, to make foundations for houses or churches, they light on rusty <rs type="obRef" ref="#ob_roman_money">money</rs> that once belonged to the Romans. Fragments of <rs type="obRef" ref="#ob_eartenhware">plates</rs> from which they ate, of <rs type="obRef" ref="#ob_goblet">goblets</rs> from which they drank, and of <rs type="obRef">pavement</rs> on which they trod, are discovered among the earth that is broken by the plough, or the dust that is crumbled by the gardener’s spade. Wells that the Romans sunk, still yield water; roads that the Romans made, form part of our highways. In some old battle-fields, British spear-heads and Roman armour have been found, mingled together in decay, as they fell in the thick pressure of the fight. Traces of Roman camps overgrown with grass, and of mounds that are the burial-places of heaps of Britons, are to be seen in almost all parts of the country. Across the bleak moors of <rs type="placeRef" ref="#pl_northumberland">Northumberland</rs>, the wall of <rs type="persRef" ref="#c_marc_aur_sever"><hi rend="smallcap">Severus</hi></rs>, overrun with <rs type="obRef" ref="#ob_moss">moss</rs> and <rs type="obRef">weeds</rs>, still stretches, a strong ruin; and the shepherds and their dogs lie sleeping on it in the summer weather. On Salisbury Plain, Stonehenge yet stands: <rs type="obTrait" ref="#pl_stonehenge"><seg type="religion">a monument of the earlier time when the Roman name was unknown in Britain, and when the Druids, with their best magic wands, could not have written it in the sands of the wild sea-shore</seg></rs>.</p>
+                </div>
+            </div>
+        </body>
+        <back xmlns="http://www.tei-c.org/ns/1.0" xml:id="backmatter">
+            <div>
+                <head>List of Characters</head>
+                <!-- ## PERSONS
+                  Documentation: `listPerson`
+                - [Prosopography](http://wiki.tei-c.org/index.php/Prosopography)
+                - Encodes:
+                  + name (@gender, @role) >
+                  + date:  prefix with "Birth" + text node
+                  + birth: tex node
+                  + note @type="fingertip small" this is what appears as the main text
+                  + note @type=""
+                  + note @type=""
+                  + is accomapnied by a `fingertip` note that is a short description of the person
+            -->
+                <listPerson xml:id="listOfPersons">
+                    <person xml:id="c_julius_caesar">
+                        <persName>Julius Caesar (Gauis Iulius Caesar)</persName>
+                        <birth>13 July 100 BC, Rome - Italy</birth>
+                        <death>15 March 44 BC, Rome Italy</death>
+                        <note type="fingertip_small">Gauis Iulius Caesar was a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.</note>
+                        <note type="search_keys">Caesar, Julius Caesar</note>
+                        <figure>
+                            <head></head> <!-- use as alt text -->
+                            <figDesc></figDesc> <!-- use as caption -->
+                            <graphic url="media/c_julius_caesar.jpg"></graphic>
+                        </figure>
+                        <note type="source" source="http://www.wikipedia.org/" >Wikipedia</note>
+                        <note type="availability">Attribution 2.5 Generic (CC BY 2.5)</note>
+                    </person>
+                    <person xml:id="c_tib_claud" sex="m" role="emperor">
+                        <persName>
+                            Tiberius Claudius Caesar Augustus Germanicus
+                        </persName>
+                        <birth>
+                            1 August 10 BC Lugdunum (Lyon France)
+                        </birth>
+                        <death>
+                            13 October 54 AD (Rome,Italy)
+                        </death>
+                        <note type="fingertip_small">
+                            In 43 AD, Claudius sent Aulus Plautius with four legions to Britain in order to subdue the Island and civiised the Britons.
+                        </note>
+                        <note type="search_keys">
+                            Tiberius, Tiberius Claudius Caesar Augustus Germanicus
+                        </note> <!-- used for Europeana API Queries -->
+                        <figure>
+                            <graphic url="media/c_tib_claud.jpg"></graphic>
+                            <head>Emperor Claudius</head>
+                            <figDesc>Statue of Emperor Claudius on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894</figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Claudius_crop.jpg" >Wikipedia</note>
+                            <note type="availability">Attribution 2.5 Generic (CC BY 2.5)</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_aul_plaut" sex="m" role="emperor">
+                        <persName>Aulus Plautius</persName> <!-- FIX IMAGE -->
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            (Unknown)
+                        </death>
+                        <note type="fingertip_small">Aulus Plautius was a Roman politician and general of the mid-1st century. He was the first to successully defeat the Britons in 43, and became the first governor of the new province, serving from 43 to 47.
+                        </note>
+                        <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
+                        <note type="search_keys">Aulus Plautius</note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head>The departure of the Romans from Britain, illustration from The History of the Nation</head>
+                            <figDesc>The departure of the Romans from Britain, illustration from The History of the Nation" oil on Canvas.</figDesc>
+                            <note type="source" source="http://www.wikigallery.org/wiki/painting_243084/Henry-A.-%28Harry%29-Payne/The-departure-of-the-Romans-from-Britain%2C-illustration-from-The-History-of-the-Nation">Wikigallery</note>
+                            <note type="availability"> Public Domain</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_gna_jul_agricol" sex="m" role="emperor">
+                        <persName> Gnaeus Julius Agricola</persName>
+                        <birth> 
+                            13 June 40 (Gallia Narbonensis)
+                        </birth>
+                        <death> 
+                            23 August 93 (Gallia Narbonensis)
+                        </death>
+                        <note type="fingertip_small"> Gnaeus Julius Agricola was a Gallo-Roman general responsible for much of the Roman conquest of Britain.
+                        </note>
+                        <note type="relations"></note>
+                        <note type="search_keys"> Agricola, Gnaeus Julius Agricola</note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head>Statue of Gnaeus Julius Agricola</head>
+                            <figDesc>Statue of Gnaeus Julius Agricola on the terrace of the Roman Baths (Bath). 
+                                The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.</figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Statue_of_Agricola_at_Bath.jpg">Wikipedia</note>
+                            <note type="availability">Public Domain </note>      
+                        </figure>
+                    </person>
+                    <person xml:id="c_publ_ostor" sex="m" role="emperor">
+                        <persName>Publius Ostorius Scapula</persName>
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            Winter 52 AD (South Wales)
+                        </death>
+                        <note type="fingertip_small"> Publius Ostorius Scapula succeed Aulus Plautius as 2nd governor of Roman Britain (47-52 AD)
+                        </note>
+                        <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
+                        <note type="search_keys">Publius Ostorius Scapula</note>
+                        <figure>
+                            <graphic url="media/c_publ_ostor.jpg"></graphic>
+                            <head>Statue of Publius Ostorius Scapula</head>
+                            <figDesc>Statue of Publius Ostorius Scapula on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.</figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Roman_baths_ostorius_01.JPG">Wikimedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License </note>      
+                        </figure>
+                    </person>
+                    <person xml:id="c_gauis_suet" sex="m" role="emperor">
+                        <persName>Gaius Suetonius Tranquillus</persName>
+                        <birth> 
+                            69 AD (Hippo Regius, Roman Africa (modern Annaba, Algeria) (uncertain)
+                        </birth>
+                        <death> 
+                            after 122 AD,  c. 140 AD  (Unknown)
+                        </death>
+                        <note type="fingertip_small">Roman administrator and historian belonging to the equestrian order who wrote during the early Imperial era of the Roman Empire. His most notable work is a set of biographies of twelve successive Roman rulers, from Julius Caesar to Domitian, entitled "De Vita Caesarum  and published in 11 AD. In 121 he was promoted to secretary of the imperial correspondence</note>
+                        <note type="relations"> Gaius Suetonius Tranquillus fight with Bodacea.</note>
+                        <note type="search_keys">Gaius Suetonius Tranquillus</note>
+                        <figure>
+                            <graphic url="media/c_gaius_suet.jpg"></graphic>
+                            <head>Portrait of Gaius Suetonius Tranquillus</head>
+                            <figDesc>Portrait of Gaius Suetonius Tranquillus</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/92093/BibliographicResource_1000086146701.html">Europeana</note>
+                            <note type="availability"> Public Domain </note>  
+                        </figure>
+                    </person>
+                    <person xml:id="c_cat_dec" sex="m" role="emperor">
+                        <persName>Catus Decianus </persName>
+                        <birth> 
+                            (Unknown)
+                        </birth>
+                        <death> 
+                            (Unknown)
+                        </death>
+                        <note type="fingertip_small">Catus Decianus was the procurator of Roman Britain (60 -61 AD) . His "rapacity" had provoked in part the rebellion of Boudica. 
+                            When Boudica's army attacked Camulodunum (Colchester), the inhabitants sent to the procurator for help, but he sent only two hundred men. </note>
+                        <note type="search_keys">Catus Decianus </note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head></head>
+                            <figDesc></figDesc>
+                            <note type="source"></note>     
+                            <note type="availability"> </note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_publ_ael_handr" sex="m" role="emperor">
+                        <persName>Publius Aelius Hadrianus Augustus </persName>
+                        <birth> 
+                            24 January 76 AD (Italica, Hispania Baetica (most likely), Rome (acoording to him) )
+                        </birth>
+                        <death> 
+                            10 July 138 (Baiae)
+                        </death>
+                        <note type="fingertip_small"> Hadrianus reigned from 10 August 117 till 10 July 138. Known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma. An ardent admirer of Greece, he sought to make Athens the cultural capital of the Empire.
+                        </note>
+                        <note type="search_keys">Hadrianus, Publius Aelius Hadrianus Augustus  </note>
+                        <figure>
+                            <graphic url="media/c_publ_ael_handr.jpg" ></graphic>
+                            <head>Emperor Hadrian</head>
+                            <figDesc>Statue of Emperor Hadrian on the terrace of the Roman Baths (Bath). The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.
+                            </figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Roman_baths_hadrian_01.JPG">Wikimedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License </note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_marc_aur_sever" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Severus Antoninus Augustus</persName>
+                        <birth> 
+                            4 April 188 AD  (Lugdunum)
+                        </birth>
+                        <death> 
+                            8 April 217 AD (On the road between Edessa and Carrhae)
+                        </death>
+                        <note type="fingertip_small">  He was emperor of Roman Empire (198 – 8 April 217) </note>
+                        <note type="search_keys">Caracalla, Marcus Aurelius Severus Antoninus Augustus</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head>Portrait of young Caracalla </head>
+                            <figDesc>Portrait of young Caracalla  </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2020903/KAS1234.html"> Europeana</note>
+                            <note type="availability">Public Domain </note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_marc_aur_maus_cara" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Mausaeus Valerius Carausius</persName>
+                        <birth> 
+                            n.d.(Gallia Belgica)
+                        </birth>
+                        <death> 
+                            293 AD (Britain)
+                        </death>
+                        <note type="fingertip_small">Caracalla is remembered as one of the most notorious and unpleasant of emperors (according to the literate elite) because of the massacres and persecutions he authorized and instigated throughout the Empire</note>
+                        <note type="search_keys">Marcus Aurelius Mausaeus Valerius Carausius</note>
+                        <figure>
+                            <graphic url="media/c_marc_aur_maus_cara.jpg" ></graphic>
+                            <head> Carausius</head>
+                            <figDesc>Coin with Carausius' head  </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2023828/eMuseumPlus_service_ExternalInterface_module_collection_objectId_1799085.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_marc_aur_maus" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Mausaeus Valerius Carausius</persName>
+                        <birth> 
+                            n.d.(Gallia Belgica)
+                        </birth>
+                        <death> 
+                            293 AD (Britain)
+                        </death>
+                        <note type="fingertip_small"> Marcus Aurelius Mausaeus Valerius Carausius was emperor of Brittanic  Empire (286–293 AD). He who was appointed as a military commander of the Roman Empire, and  his command had been sea-based. He usurped power in 286, during the Carausian Revolt, declaring himself emperor in Britain and northern Gaul.
+                        </note>
+                        <note type="search_keys"> Carausius, Marcus Aurelius Mausaeus Valerius Carausius</note>
+                        <figure>
+                            <graphic url="http://www.europeana.eu/portal/record/2023828/eMuseumPlus_service_ExternalInterface_module_collection_objectId_1799085.html " ></graphic>
+                            <head> Carausius</head>
+                            <figDesc>Coin with Carausius' head  </figDesc>
+                            <note type="source"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                    </person>
+                    
+                    <person xml:id="c_flav_honor" sex="m" role="emperor">
+                        <persName>Flavius Honorius Augustus</persName>
+                        <birth> 
+                            9 September 384 (Constantinople)
+                        </birth>
+                        <death> 
+                            15 August 423 (Ravenna, Italia)
+                        </death>
+                        <note type="fingertip_small">Honorius is widely considered as one of the worst of the emperors; it was during his reign that Rome was sacked for the first time in 800 years (23 January 393 – 15 August 423) </note>
+                        <note type="search_keys">Flavius Honorius Augustus</note>
+                        <figure>
+                            <graphic url="media/c_flav_honor.jpg" ></graphic>
+                            <head> emperor Honorius</head>
+                            <figDesc>Consular diptych of Probus Anicius, consul in 406, depicting emperor Honorius. Photograph from Ludwig von Sybel, Christliche Antike, vol. 2, Marburg, 1909.
+                            </figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Consular_diptych_Probus_406.jpg"> Wikipedia </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_luc_sept_sev" sex="m" role="emperor">
+                        <persName>Lucius Septimius Severus Augustus</persName>
+                        <birth> 
+                            11 April 145 (Lucania)
+                        </birth>
+                        <death> 
+                            4 February 211 
+                        </death>
+                        <note type="fingertip_small">He was emperor of the Roman Empire  (193 - 211) </note>
+                        <note type="search_keys">Lucius Septimius Severus Augustus</note>
+                        <figure>
+                            <graphic url="media/c_luc_sept_sev" ></graphic>
+                            <head> Wall of Severus</head>
+                            <figDesc>An unknown artist's engraving depicting the wall of Severus. The Wall of Severus was possibly a defensive fortification built by the Roman Emperor Septimius Severus (reigned AD 193-211) in Britannia during the emperor's campaign there.
+                            </figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:WallOfSeverusEngraving1854.jpg"> Wikipedia </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <!--BRITISH  -->
+                    <person xml:id="c_cassiv" sex="m" role="emperor">
+                        <persName>Cassivellaunus</persName>
+                        <birth> 
+                            11 April 145 (Lucania)
+                        </birth>
+                        <death> 
+                            4 February 211 
+                        </death>
+                        <note type="fingertip_small"> British tribal chief who led the defence against Julius Caesar's second expedition to Britain in 54 BC.</note>
+                        <note type="search_keys">Cassivellaunus, Cassibelanus, Caswallawn</note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> </head>
+                            <figDesc></figDesc>
+                            <note type="source">  </note>
+                            <note type="availability"></note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_caratac" sex="m" role="emperor">
+                        <persName> Caratacus </persName>
+                        <birth> 
+                            c. 10 AD (probably in Catuvellauni territory)
+                        </birth>
+                        <death> 
+                            c. 50 AD  (Rome)
+                        </death>
+                        <note type="fingertip_small"> British chieftain of the Catuvellauni tribe, who led the British resistance to the Roman conquest. He resisted the Romans for almost a decade,and after his final defeat, he was captured and handed over to the Romans. He sentenced to death as a military prisoner, but made a speech before his execution that persuaded the Emperor Claudius to spare him.
+                            He was king of the Britons and the Catuvellauni (1st century, to c.50 AD )</note>
+                        <note type="search_keys"> Caratacus </note>
+                        <figure>
+                            <graphic url="" ></graphic>
+                            <head> Head of Caractacus</head>
+                            <figDesc>William Blake Visionary Head of Caractacus. Тhe Visionary Heads is a series of black chalk and pencil drawings produced by William Blake after 1818 by request of John Varley, the watercolour artist and astrologer
+                            </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022304/DEF64CA69282581EEC886F873CCC2B49A3F8236C.html"> Europeana </note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                    <person xml:id="c_boudic" sex="f" role="emperor">
+                        <persName> Boudica </persName>
+                        <birth>      
+                        </birth>
+                        <death> 
+                            c. 60 or 61 AD (Britannia)
+                        </death>
+                        <note type="fingertip_small"> Queen of the Iceni, a Brittonic tribe of eastern Britain during the Iron Age and early Roman era. </note>
+                        <note type="search_keys"> Boudica, Boudicca,  Boadicea , Buddug </note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head> Boadicea destroying London by fire </head>
+                            <figDesc>Boadicea destroying London by fire    </figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/92033/BibliographicResource_3000053591331.html"> Europeana</note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                    </person>
+                </listPerson>
+            </div>
+            <!-- ## PLACES
+              - [13.2.3 Place Names](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPLAC)
+              - [13.2.3.3 Relative Placenames](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ND.html#NDPLR)
+               - Encodes:
+                 + name (multiple types)
+                 + geolocation: longtitude, latitude (optionally)
+                 + date of birth, date of death (optionally)
+                 + is accompanies by an image and caption (if available)
+                 + is accomapnied by a `fingertip` note that is a short description of the place
+            -->
+            <div type="list_places" xml:id="places">
+                <head>List of places: Places and locations mentioned in the book.
+                </head>
+                <listPlace>
+                    <!-- BRITAIN -->
+            <place xml:id="pl_cornwall">
+                <placeName>Cornwall (aka Cornwall, Kernow, Belerion) </placeName>
+                <location>
+                    <geo>50.503632 -4.652498</geo>
+                </location>
+                        <note type="fingertip_small">Cornwall is a county of England, in the south-west part of Great Britain.</note>                                  
+                        <note type="media_place">
+                          <figure>
+                              <graphic url=""></graphic>
+                             <head>Lanyon Quoit</head>
+                             <figDesc>Lanyon Quoit is a megalithic monument in Penzance.</figDesc>
+                             <note type="source" source="http://www.europeana.eu/portal/record/2048419/item_V74X25YPAIHVOD7A2BWXYZI24BMLP4CG.html">Europeana</note>
+                             <note type="availability">Rights Reserved - Free Access</note>
+                            </figure>
+                        </note>                                   
+            </place>
+            
+            <place xml:id="pl_kent">
+               <placeName>Kent (Cantium)</placeName>
+               <location>
+                  <geo>51.1949374 0.1822119</geo>
+               </location>
+               <note type="fingeript_small">Kent is a country in South East England with a long history of human occupation.</note>
+               <note type="media_place">
+                  <figure>
+                      <graphic url="https://en.wikipedia.org/wiki/Richborough_Castle#/media/File:Richborough_Roman_Fort.JPG"></graphic>
+                     <head>Ruins of Richborough fort</head>
+                     <figDesc>The outer defensive works and one wall of Richborough Fort in Kent, which was the main entry point to Britain for Romans.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Richborough_Castle#/media/File:Richborough_Roman_Fort.JPG">Wikipedia</note>
+                     <note type="availability">Public Domain</note>
+                  </figure>
+               </note>                                   
+            </place>
+            <place xml:id="pl_ireland">
+               <placeName>Ireland (Eire, Airlann)</placeName>
+               <location>
+                  <geo>53.0360895 -17.1358564</geo>
+               </location>
+                <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>The Uragh Stone Circle</head>
+                     <figDesc>Uragh Stone Circle, a neolithic stone circle in Gleninchaquin Park, County Kerry, Republic of Ireland.</figDesc>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/0/0f/Uragh_Stone_Circle.jpg">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            <place xml:id="pl_stonehenge">
+               <placeName>Stonehenge</placeName>
+               <location>
+                  <geo>51.178880 -1.826219</geo>
+               </location>
+                <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Stonehenge, Amesbury, Wiltshire</head>
+                     <figDesc>Stonehenge is believed to have been a religious site with a strong astronomical component. It was first built around 3,000BC and was modified over about 1,500 years.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2022317/B2F7D8D53139B60D5993D1BED1973A0D69591624.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Sarsen monument at Stonehenge</head>
+                     <figDesc>The sarsen monument at Stonehenge from the west.</figDesc>
+                     <note type="source">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Modern Druids in Stonehenge</head>
+                      <figDesc>The Oxford druids, part of the Ancient Order of Druids, within the stones at Stonehenge.</figDesc>
+                      <note type="source" source="http://europeana.eu/portal/record/2022317/72EE5836B13CFC1DD606FB968A3158FF42EA5701.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Stonehenge Heel Stone</head>
+                        <figDesc>The Heel Stone of Stonehenge.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2020708/uid_iid_2490218_DR_82_1.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Stonehenge</head>
+                        <figDesc>Video view of Stonehenge.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2051908/data_euscreenXL_ina_I14015805.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Stonehenge</head>
+                        <figDesc>Video of modern time visitors in the Stonehenge ruins.</figDesc>
+                      <note type="source" source="http://www.ccma.cat/tv3/alacarta/programa/titol/video/3517730/#">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access</note>
+                  </figure>
+               </note>
+            </place>
+            
+            <place xml:id="pl_canterbury">
+               <placeName>Canterbury (Durovernum Cantiacorum)</placeName>
+               <location>
+                  <geo>51.283371 1.079215</geo>
+               </location>
+               <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>The 'Big Dig'</head>
+                        <figDesc>A major archaeological project was undertaken by the Canterbury Archaeological Trust.</figDesc>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                  </figure>
+               </note> 
+               <note type="media_place">
+                  <figure>
+                     <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_c_zoomify78561_html.html"></graphic>
+                     <head>Canterbury Castle</head>
+                        <figDesc>View of the old castle and Roman arch at Canterbury.</figDesc>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>
+            </place>
+            
+            <place xml:id="pl_chertsey">
+               <placeName>Chertsey (Cirotisege, Cerotesege)</placeName>
+               <location>
+                  <geo>51.386615 -0.509465</geo>
+               </location>
+               <note type="fingeript_small">Chertsey was one of the oldest market towns in England.</note> 
+               <note type="media_place">
+                  <figure>
+                     <graphic url="https://en.wikipedia.org/wiki/Chertsey#/media/File:Chertsey_Bridge,_between_Chertsey_and_Laleham_(19_November_2005).jpg"></graphic>
+                     <head>Chertsey Bridge</head>
+                        <figDesc>Chertsey Bridge, between Chertsey and Laleham.</figDesc>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_surrey">
+               <placeName>Surrey</placeName>
+               <location>
+                  <geo>51.2661875 -1.5136747</geo>
+               </location>
+               <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Stane Street at Eartham Woods</head>
+                        <figDesc>Stane Street was created by Romans and ran through Surrey.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Stane_Street_(Chichester)#/media/File:Stane_Street_at_Eartham_Woods.JPG">Wikipedia</note>
+                     <note type="availability">Public Domain</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_hertfordshire">
+               <placeName>Hertfordshire (Heort ford)</placeName>
+               <location>
+                  <geo>51.8347747 -1.3934209</geo>
+               </location>
+               <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>The Devil's Dyke</head>
+                     <figDesc>Julius Ceasar's troops were defeated by Cassivellaun in Hertfordshire. The Devil's Dyke was probably the site of Caesar's defeat.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/History_of_Hertfordshire#/media/File:Devil%27s_Dyke_Hertfordshire_sign.jpg">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            <place xml:id="pl_anglesey">
+               <placeName>Island of Anglesey</placeName>
+               <location>
+                  <geo>53.2770416 -4.8734052</geo>
+               </location>
+               <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Cromlech at Plas Newydd</head>
+                     <figDesc>Cromlech at Plas Newydd, monolithic monument at Island of Anglesey.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)#/media/File:Cromlech_at_Plas_Newydd_in_Anglesey.jpeg">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            <place xml:id="pl_norfolk">
+               <placeName>Norfolk (Norðfolc, Nordfolc)</placeName>
+               <location>
+                  <geo>52.6687479 -0.1714611</geo>
+               </location>
+               <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Burgh Castle</head>
+                     <figDesc>Burgh Castle Built in around 280AD. It was a Roman cavalry fort used to protect the coast from invaders from where Northern Germany is now.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/History_of_Norfolk#/media/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_suffolk">
+               <placeName>Suffolk</placeName>
+               
+               <location>
+                  <geo>52.2355148 -0.0665338</geo>
+               </location>
+               <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Excavations at Sutton Hoo</head>
+                     <figDesc>Sutton Hoo, near Woodbridge, East Anglia, is the site of two ancient cemeteries and excavations have brought to light many artefacts.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_Wakefield_Council_WAKGMP___P1999_1968.html">Wikipedia</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_northumberland1">
+               <placeName>Northumberland</placeName>
+               
+               <location>
+                  <geo>55.2954456 -2.6355857</geo>
+               </location>
+               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Altars at Risingham Castle</head>
+                     <figDesc>These antiquities come from the Roman fort at Risingham. Originally part of the fortifications of Hadrian's Wall, the fort was built to defend the crossing of the Dere Street.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_northumberland">
+               <placeName>Northumberland</placeName>
+               <location>
+                  <geo>55.2954456 -2.6355857</geo>
+               </location>
+               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Altars at Risingham Castle</head>
+                     <figDesc>These antiquities come from the Roman fort at Risingham. Originally part of the fortifications of Hadrian's Wall, the fort was built to defend the crossing of the Dere Street.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_kits_coty">
+               <placeName>Kits Coty House (Kit's Coty, Kits Coity)</placeName>
+               
+               <location>
+                  <geo>51.319338, 0.504931</geo>
+               </location>
+               <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Kits Coty, near Maidstone, Kent</head>
+                        <figDesc>The exterior of the prehistoric monument surrounded by modern, protective railings.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2022317/DDE4B2E9565139718B91F141B8B5C44865926A38.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>      
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Kits Goty House or the Tomb of Hengist</head>
+                     <figDesc>A watercolour and pencil drawing of a stone tomb, in the parish of Aylesford, Kent.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_k_zoomify80304_html.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note> 
+            </place>
+            
+            <place xml:id="pl_bluebell_hill">
+               <placeName>Bluebell Hill</placeName>
+               
+               <location>
+                  <geo>51.3349681, 0.4788975</geo>
+               </location>
+                <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Bluebell Hill view point</head>
+                     <figDesc>This view point commands stunning views for miles southwards of this part of Kent, from the edge of the North Downs.</figDesc>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/1/17/Bluebell_Hill_view_point_-_geograph.org.uk_-_56032.jpg ">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_st_albans">
+               <placeName>Saint Albans (Verulamium , Verlamchester, Wæclingacaester)</placeName>
+               
+               <location>
+                  <geo>51.7472736 -0.3493187</geo>
+               </location>
+                <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Remains of Roman Wall</head>
+                     <figDesc>Remains of Roman wall in St Albans, Hertfordshire, UK.</figDesc>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_salisbury">
+               <placeName>Salisbury Plain</placeName>
+               
+               <location>
+                  <geo>51.3227298 -2.4860678</geo>
+               </location>
+                <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>View from Walbury Hill</head>
+                     <figDesc>On Walbury Hill, a typical Salisbury Plain landscape.</figDesc>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Salisbury_Plain#/media/File:View_from_Walbury_Hill.jpg ">Wikipedia</note>
+                     <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.5 License</note>
+                  </figure>
+               </note>                                   
+            </place>
+            
+            <place xml:id="pl_maidstone">
+               <placeName>Maidstone</placeName>
+               
+               <location>
+                  <geo>51.2627597 0.4500384 </geo>
+               </location>
+                <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
+               <note type="media_place">
+                  <figure>
+                     <graphic url=""></graphic>
+                     <head>Quarrying Kentish ragstone</head>
+                     <figDesc>The area is still mined for ragstone, which is has been used in many historical buildings.</figDesc>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2024904/photography_ProvidedCHO_TopFoto_co_uk_EU030794.html">Europeana</note>
+                     <note type="availability">Rights Reserved - Free Access </note>
+                  </figure>
+               </note>                                   
+            </place>
+                    
+            <place xml:id="pl_hadrian_wall">
+                <placeName>Hadrian's Wall</placeName>
+                        
+                <location>
+                    <geo>54.9898985 -2.603885 </geo>
+                </location>
+                <note type="fingeript_small">Hadrian's Wall was a defensive fortification in the Roman province of Britannia, built during the reign of the emperor Hadrian.</note>
+                <note type="media_place">
+                    <figure>
+                        <graphic url=""></graphic>
+                        <head>Hadrian's Wall</head>
+                        <figDesc>Hadrian's Wall, west of Birdoswald Roman fort.</figDesc>
+                        <note type="source" source="http://www.europeana.eu/portal/record/2022363/ct15002.html">Europeana</note>
+                        <note type="availability">Rights Reserved - Free Access </note>
+                    </figure>
+                </note>                                   
+            </place>                  
+                     
+                    <!-- ITALY -->
+                    <!-- FRANCE -->
+                    <!-- OTHER -->
+                </listPlace>
+            </div>
+            <!-- ## OBJECTS -->
+            <div xml:id="objects">
+                <head>
+                    <label>List of Objects:</label> A comprehensive list of objects mentioned in the book.
+                </head>
+                <list type="objects">
+                    <item xml:id="ob_earthware">
+                        <name>Earthware</name>
+                        <figure>
+                            <graphic url="media/objects/earthware.jpg" />
+                            <head>Items made of clay</head><!-- + alt of image -->
+                            <figDesc>A plate and a cup made of clay.</figDesc> <!-- + caption of image -->
+                            <note type="source" source="http://wikimedia.org">Wikimedia</note>
+                            <note type="availabilty"> By Acabashi (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons</note>
+                        </figure>
+                        <note type="fingertip_small">Pottery made from clay </note> <!-- + Encoding Change: replaces older version `desc` -->
+                    </item>
+                    <item xml:id="ob_cattle">
+                        <name>Cattle</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Cattle</head>
+                            <figDesc>Ireland has a wide variety of cattle. Specific breeds of cattle are used for milk production and others for beef.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Breeding cattle has been an essential part of the prehistoric culture.</note> 
+                    </item>
+                    <item xml:id="ob_horses">
+                        <name>Horses</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Horses</head>
+                            <figDesc>Street sounds with horses' hooves on road surface (Chelmsford Avenue, Cheltenham)</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/9200257/BibliographicResource_3000055619168.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_horses1">
+                        <name>Horses</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Horses trotting down the road</head>
+                            <figDesc>Street sounds with horses' hooves on road surface.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Horses have been and are still bred throughout Britain and served in everyday and military transportation. </note>
+                    </item>
+                    <item xml:id="ob_mistletoe">
+                        <name>Mistletoe</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Mistletoe tree</head>
+                            <figDesc>Street sounds with horses' hooves on road surface (Chelmsford Avenue, Cheltenham)</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11628/_FOTO_AM_UNITS_ITALY_44824.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_moss">
+                        <name>Moss</name>
+                        <figure>
+                            <graphic url=")" />
+                            <head>Salicornia dolichostachya Moss</head>
+                            <figDesc>Salicornia dolichostachya Moss</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>                        
+                        <note type="fingertip">Moss is typical growth in the humid and cold British climate.</note>
+                    </item>
+                    <item xml:id="ob_corn">
+                        <name>Corn</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Corn</head>
+                            <figDesc>variety of Corns</figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:GEM_corn.jpg"> Wikipedia</note>
+                            <note type="availability">Public Domain</note>
+                        </figure>
+                        <note type="fingertip"></note> 
+                    </item>
+                    <item xml:id="ob_earthenware">
+                        <name>Earthenware</name>
+                        <figure>
+                            <graphic url="" />
+                            <head> Iron Age Vessel</head>
+                            <figDesc> 
+                                Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Coarse soft fabric with an soapy feel. Reduced fired, light grey core, buff inner 'skin' and dark grey outer skin. Inclusions of white sands, and non-crystalline cream, grey and orange. Height of handle 41.5mm, min width of handle (outer edge) 21.8mm, Internal diameter 11mm, weight 53.1g.David Knight (Trent and Peak Archaeology Unit) writes:Very nice example of a strap handle, which I would suspect is probably Iron Age. You can find parallels in LBA and IA assemblages across the East Midlands and eastern England (as well as farther south). Most examples fit within an IA context (e.g. the handle from a middle IA Scored Ware assemblage from Market Deeping, Lincs, no.23) but rare examples are known in LBA contexts (e.g. post Deverel-Rimbury Plainware jar from Isleham Cambs (in this case containing a Wilburton stage bronze hoard, so well dated)</figDesc>
+                            <note type="source" source="http://europeana.eu/portal/record/2022324/290426.html"> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip">Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Example of how pottery of the era looks like nowadays.</note> 
+                    </item>
+                    <item xml:id="ob_swords">
+                        <name>Swords</name>
+                        <figure>
+                            <graphic url="" />
+                            <head> Iron Age Miniature sword.</head>
+                            <figDesc>Cast copper alloy miniature sword.The sword is flat, undecorated and made from one piece of copper alloy. The blade is slender, elongated and has a rounded tip. The handle and pommel are missing.</figDesc> 
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/189524.html"> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip">Cast copper alloy miniature sword. The sword is flat, undecorated and made from one piece of copper alloy. The blade is slender, elongated and has a rounded tip. The handle and pommel are missing.
+                        </note> </item>
+                    <item xml:id="ob_daggers">
+                        <name>Daggers</name>
+                        <figure>
+                            <graphic url="" />
+                            <head> Early Iron Age copper alloy dagger </head>
+                            <figDesc> A Late Bronze Age / Early Iron Age copper alloy dagger blade, circa 900-700BC</figDesc>
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/399309.html "> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip"></note>
+                    </item>
+                    <item xml:id="ob_spears">
+                        <name>Spears</name>
+                        <figure>
+                            <graphic url="" />
+                            <head> Bronze Age spear  </head>
+                            <figDesc> The tip from a broken Bronze Age spear, circa 800 BC </figDesc>
+                            <note type="source" source ="http://www.europeana.eu/portal/record/2022324/97731.html "> Europeana</note>
+                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
+                        </figure>
+                        <note type="fingertip"></note>
+                    </item>
+                    <item xml:id="ob_cattle1">
+                        <name>Cattle</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Irish cattle</head>
+                            <figDesc>Charolais and Belgian Blue Cattle in Ireland</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2059513/data_foodanddrink_efd_LGMA_0082.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Ireland has a wide variety of cattle. Specific breeds are used for milk production and others for beef.</note> 
+                    </item>
+                    <item xml:id="ob_oak">
+                        <name>Oak</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Montgomery Oaks</head>
+                            <figDesc>Old Oak tree at Sheffield</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022302/2D498901FCB95513E8E9CC9A6217DB930CAC39BE.html">Europeana</note>
+                            <note type="availability"> Rights Reserved - Free Access </note>
+                        </figure>
+                        <note type="fingertip">Oaks are indigenous in Britain and have a connection with aniccent religion and folklore.</note>
+                    </item>
+                    <item xml:id="ob_eartenhware">
+                        <name>Earthenware</name>
+                        <figure>
+                            <graphic url="http://europeana.eu/portal/record/2022324/290426.html" />
+                            <head>Iron Age vessel</head>
+                            <figDesc>Prehistoric pottery vessel shard</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">The vessel was also probaby covered in leather.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_sword">
+                        <name>Sword</name>
+                        <figure>
+                            <graphic url=""/>
+                            <head>Iron Age Miniature Object</head>
+                            <figDesc>Cast copper alloy miniature sword.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/189524.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Small, undecorated sword made of a copper alloy, from the Iron Age.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_dagger">
+                        <name>Dagger</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Brone Age dagger</head>
+                            <figDesc>A late Bronze Age/early Iron Age copper alloy dagger.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/399309.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">A smaller lightweight weapon.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_spear">
+                        <name>Spear</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Bronze Age spear</head>
+                            <figDesc>Tip of a broken spear from the Bronze Age.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/97731.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">The tip of a Briton's spear from the Bronze Age.</note> 
+                    </item>
+                    <item xml:id="ob_chariot">
+                        <name>Chariot</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age coin</head>
+                            <figDesc>An Iron Age coin, depicting a horse chariot.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/310206.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">This Roman coin depicts a two horse chariot of the Iron Age.</note> 
+                    </item>
+                    <item xml:id="ob_shield">
+                        <name>Shield</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age shield</head>
+                            <figDesc>Decorative piece from an Iron Age shield.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/395017.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Piece of a light shield of copper, from the Iron Age.</note> 
+                    </item>
+                    <item xml:id="ob_scythe">
+                        <name>Scythe</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Scythe</head>
+                            <figDesc>A corroded scythe.</figDesc>
+                            <note type="source" source="http://ichef-1.bbci.co.uk/news/660/media/images/70441000/jpg/_70441827_potgate-ironsickle.jpg">BBC</note>
+                            <note type="availability">Orphan work</note>
+                        </figure>
+                        <note type="fingertip">Farming tool used by the Britons.</note> 
+                    </item>
+                    
+                    <item xml:id="ob_rings">
+                        <name>Metal Rings</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Ring Money</head>
+                            <figDesc>A copper alloy penannular ring, possibly ring money and dating to the Iron Age.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/442428.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Plain metal rings were used by indigenous Britons as currency, before the Roman invasion.</note> 
+                    </item>
+                    <item xml:id="ob_wine">
+                        <name>Wine</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Iron Age coin</head>
+                            <figDesc>Obverse wine amphora held by two figures, one on each side.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/310201.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 4.0 License</note>
+                        </figure>
+                        <note type="fingertip">Iron Age coin, depicting an amphora of wine.</note> 
+                    </item>
+                    <item xml:id="ob_serpents_egg">
+                        <name>Serpent's Egg.</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Hagstone</head>
+                            <figDesc>A naturally-occuring hagstone.</figDesc>
+                            <note type="source" source="https://commons.wikimedia.org/wiki/File:Feuerstein_mit_Loch-Huehnergott.jpg#/media/File:Feuerstein_mit_Loch-Huehnergott.jpg">Wikipedia</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
+                        </figure>
+                        <note type="fingertip">"Serpent's Egg" is Adder stone or hag stone, also known in Gaelic as "Druid's Glass".</note> 
+                    </item>
+                    <item xml:id="ob_mil_roads">
+                        <name>Military Roads</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Roman Road to Hathersage</head>
+                            <figDesc>The remains of a Roman road in the english countryside.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022302/87CF291D65184B8FC6F0C827F904CDC03E327809.html">Europeana</note>
+                            <note type="availability">Rights Reserved - Free Access</note>
+                        </figure>
+                        <note type="fingertip">Roman roads in Britain are highways - mainly designed for military use - created by the army during the Roman occupation.</note> 
+                    </item>
+                    <item xml:id="ob_roman_money">
+                        <name>Roman Coins</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Roman Coin</head>
+                            <figDesc>Roman copper alloy nummus, constantinopolis issue.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022324/98488.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Roman ccoins of various eras are found in excavations across Britain.</note> 
+                    </item>
+                    <item xml:id="ob_goblet">
+                        <name>Fragments of Roman goblet</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Fragment of green faience vessel</head>
+                            <figDesc>The remains of a Roman road in the english countryside.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_University_of_Swansea__Egypt_Centre_AR50_2F3396.html">Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                        <note type="fingertip">Objects of fine tin-glazed pottery were imported from Egypt and were very popular in anccient times.</note> 
+                    </item>
+                    <item xml:id="ob_plates">
+                        <name>Fragments of Roman goblet</name>
+                        <figure>
+                            <graphic url="" />
+                            <head>Roman plate (vessel)</head>
+                            <figDesc>An Eastern Mediterranean blown plate from the Roman era.</figDesc>
+                            <note type="source" source="http://www.europeana.eu/portal/record/2022304/60307823F554EAE9571466F825A09F6D4DD1B118.html">Europeana</note>
+                            <note type="availability">Rights Reserved - Free Access</note>
+                        </figure>
+                        <note type="fingertip">A well preserved specimen of a Roman-era plate.</note> 
+                    </item>
+                </list>
+            </div>
+        </back>
+    </text>
+</TEI>

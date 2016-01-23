@@ -394,10 +394,10 @@
                <note type="fingeript_small">Penzance is a town, civil parish and port in Cornwall, in England.</note>          
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2048419/item_V74X25YPAIHVOD7A2BWXYZI24BMLP4CG.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Lanyon Quoit</head>
                      <figDesc>Lanyon Quoit is a megalithic monument in Penzance.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2048419/item_V74X25YPAIHVOD7A2BWXYZI24BMLP4CG.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>                                   
@@ -414,7 +414,7 @@
                      <graphic url="https://upload.wikimedia.org/wikipedia/commons/7/7a/Ruins_Richborough_Fort_%28Rutupiae%29.jpg"></graphic>
                      <head>Ruins of Richborough fort</head>
                      <figDesc>The outer defensive works and one wall of Richborough Fort in Kent, which was the main entry point to Britain for Romans.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/7/7a/Ruins_Richborough_Fort_%28Rutupiae%29.jpg">Wikipedia</note>
                      <note type="availability">Public Domain</note>
                   </figure>
                </note>                                   
@@ -427,10 +427,10 @@
                 <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Uragh_Stone_Circle.jpg"></graphic>
+                     <graphic url=""></graphic>
                      <head>The Uragh Stone Circle</head>
                      <figDesc>Uragh Stone Circle, a neolithic stone circle in Gleninchaquin Park, County Kerry, Republic of Ireland.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/0/0f/Uragh_Stone_Circle.jpg">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
                   </figure>
                </note>                                   
@@ -443,10 +443,10 @@
                 <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2022317/B2F7D8D53139B60D5993D1BED1973A0D69591624.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Stonehenge, Amesbury, Wiltshire</head>
                      <figDesc>Stonehenge is believed to have been a religious site with a strong astronomical component. It was first built around 3,000BC and was modified over about 1,500 years.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2022317/B2F7D8D53139B60D5993D1BED1973A0D69591624.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
@@ -505,10 +505,10 @@
                <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG"></graphic>
+                     <graphic url=""></graphic>
                      <head>The 'Big Dig'</head>
                         <figDesc>A major archaeological project was undertaken by the Canterbury Archaeological Trust.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
                   </figure>
                </note> 
@@ -517,7 +517,7 @@
                      <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_c_zoomify78561_html.html"></graphic>
                      <head>Canterbury Castle</head>
                         <figDesc>View of the old castle and Roman arch at Canterbury.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>
@@ -534,7 +534,7 @@
                      <graphic url="https://en.wikipedia.org/wiki/Chertsey#/media/File:Chertsey_Bridge,_between_Chertsey_and_Laleham_(19_November_2005).jpg"></graphic>
                      <head>Chertsey Bridge</head>
                         <figDesc>Chertsey Bridge, between Chertsey and Laleham.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
                   </figure>
                </note>                                   
@@ -548,10 +548,10 @@
                <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://en.wikipedia.org/wiki/Stane_Street_(Chichester)#/media/File:Stane_Street_at_Eartham_Woods.JPG"></graphic>
+                     <graphic url=""></graphic>
                      <head>Stane Street at Eartham Woods</head>
                         <figDesc>Stane Street was created by Romans and ran through Surrey.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Stane_Street_(Chichester)#/media/File:Stane_Street_at_Eartham_Woods.JPG">Wikipedia</note>
                      <note type="availability">Public Domain</note>
                   </figure>
                </note>                                   
@@ -565,10 +565,10 @@
                <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
                <note type="media_place">
                   <figure>
-                     <graphic url="https://en.wikipedia.org/wiki/History_of_Hertfordshire#/media/File:Devil%27s_Dyke_Hertfordshire_sign.jpg"></graphic>
+                     <graphic url=""></graphic>
                      <head>The Devil's Dyke</head>
                      <figDesc>Julius Ceasar's troops were defeated by Cassivellaun in Hertfordshire. The Devil's Dyke was probably the site of Caesar's defeat.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://en.wikipedia.org/wiki/History_of_Hertfordshire#/media/File:Devil%27s_Dyke_Hertfordshire_sign.jpg">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
                   </figure>
                </note>                                   
@@ -581,10 +581,10 @@
                <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)#/media/File:Cromlech_at_Plas_Newydd_in_Anglesey.jpeg"></graphic>
+                     <graphic url=""></graphic>
                      <head>Cromlech at Plas Newydd</head>
                      <figDesc>Cromlech at Plas Newydd, monolithic monument at Island of Anglesey.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)#/media/File:Cromlech_at_Plas_Newydd_in_Anglesey.jpeg">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
                   </figure>
                </note>                                   
@@ -597,10 +597,10 @@
                <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://en.wikipedia.org/wiki/History_of_Norfolk#/media/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg"></graphic>
+                     <graphic url=""></graphic>
                      <head>Burgh Castle</head>
                      <figDesc>Burgh Castle Built in around 280AD. It was a Roman cavalry fort used to protect the coast from invaders from where Northern Germany is now.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://en.wikipedia.org/wiki/History_of_Norfolk#/media/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
                   </figure>
                </note>                                   
@@ -615,10 +615,10 @@
                <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_Wakefield_Council_WAKGMP___P1999_1968.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Excavations at Sutton Hoo</head>
                      <figDesc>Sutton Hoo, near Woodbridge, East Anglia, is the site of two ancient cemeteries and excavations have brought to light many artefacts.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_Wakefield_Council_WAKGMP___P1999_1968.html">Wikipedia</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>                                   
@@ -633,10 +633,10 @@
                <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Altars at Risingham Castle</head>
                      <figDesc>These antiquities come from the Roman fort at Risingham. Originally part of the fortifications of Hadrian's Wall, the fort was built to defend the crossing of the Dere Street.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>                                   
@@ -650,10 +650,10 @@
                <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Altars at Risingham Castle</head>
                      <figDesc>These antiquities come from the Roman fort at Risingham. Originally part of the fortifications of Hadrian's Wall, the fort was built to defend the crossing of the Dere Street.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>                                   
@@ -668,19 +668,19 @@
                <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2022317/DDE4B2E9565139718B91F141B8B5C44865926A38.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Kits Coty, near Maidstone, Kent</head>
                         <figDesc>The exterior of the prehistoric monument surrounded by modern, protective railings.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2022317/DDE4B2E9565139718B91F141B8B5C44865926A38.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>      
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_k_zoomify80304_html.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Kits Goty House or the Tomb of Hengist</head>
                      <figDesc>A watercolour and pencil drawing of a stone tomb, in the parish of Aylesford, Kent.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_k_zoomify80304_html.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note> 
@@ -695,10 +695,10 @@
                 <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://upload.wikimedia.org/wikipedia/commons/1/17/Bluebell_Hill_view_point_-_geograph.org.uk_-_56032.jpg "></graphic>
+                     <graphic url=""></graphic>
                      <head>Bluebell Hill view point</head>
                      <figDesc>This view point commands stunning views for miles southwards of this part of Kent, from the edge of the North Downs.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/1/17/Bluebell_Hill_view_point_-_geograph.org.uk_-_56032.jpg ">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
                   </figure>
                </note>                                   
@@ -713,10 +713,10 @@
                 <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG"></graphic>
+                     <graphic url=""></graphic>
                      <head>Remains of Roman Wall</head>
                      <figDesc>Remains of Roman wall in St Albans, Hertfordshire, UK.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
                   </figure>
                </note>                                   
@@ -731,10 +731,10 @@
                 <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG"></graphic>
+                     <graphic url=""></graphic>
                      <head>View from Walbury Hill</head>
                      <figDesc>On Walbury Hill, a typical Salisbury Plain landscape.</figDesc>
-                     <note type="source">Wikipedia</note>
+                      <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.5 License</note>
                   </figure>
                </note>                                   
@@ -749,10 +749,10 @@
                 <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
                <note type="media_place">
                   <figure>
-                     <graphic url="http://www.europeana.eu/portal/record/2024904/photography_ProvidedCHO_TopFoto_co_uk_EU030794.html"></graphic>
+                     <graphic url=""></graphic>
                      <head>Quarrying Kentish ragstone</head>
                      <figDesc>The area is still mined for ragstone, which is has been used in many historical buildings.</figDesc>
-                     <note type="source">Europeana</note>
+                      <note type="source" source="http://www.europeana.eu/portal/record/2024904/photography_ProvidedCHO_TopFoto_co_uk_EU030794.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>                                   
@@ -859,7 +859,7 @@
                     <item xml:id="ob_earthenware">
                         <name>Earthenware</name>
                         <figure>
-                            <graphic url="http://europeana.eu/portal/record/2022324/290426.html " />
+                            <graphic url="" />
                             <head> Iron Age Vessel</head>
                             <figDesc> 
                                 Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Coarse soft fabric with an soapy feel. Reduced fired, light grey core, buff inner 'skin' and dark grey outer skin. Inclusions of white sands, and non-crystalline cream, grey and orange. Height of handle 41.5mm, min width of handle (outer edge) 21.8mm, Internal diameter 11mm, weight 53.1g.David Knight (Trent and Peak Archaeology Unit) writes:Very nice example of a strap handle, which I would suspect is probably Iron Age. You can find parallels in LBA and IA assemblages across the East Midlands and eastern England (as well as farther south). Most examples fit within an IA context (e.g. the handle from a middle IA Scored Ware assemblage from Market Deeping, Lincs, no.23) but rare examples are known in LBA contexts (e.g. post Deverel-Rimbury Plainware jar from Isleham Cambs (in this case containing a Wilburton stage bronze hoard, so well dated)</figDesc>
@@ -871,7 +871,7 @@
                     <item xml:id="ob_swords">
                         <name>Swords</name>
                         <figure>
-                            <graphic url="http://www.europeana.eu/portal/record/2022324/189524.html" />
+                            <graphic url="" />
                             <head> Iron Age Miniature sword.</head>
                             <figDesc>Cast copper alloy miniature sword.The sword is flat, undecorated and made from one piece of copper alloy. The blade is slender, elongated and has a rounded tip. The handle and pommel are missing.</figDesc> 
                             <note type="source" source ="http://www.europeana.eu/portal/record/2022324/189524.html"> Europeana</note>
@@ -882,7 +882,7 @@
                     <item xml:id="ob_daggers">
                         <name>Daggers</name>
                         <figure>
-                            <graphic url="http://www.europeana.eu/portal/record/2022324/399309.html " />
+                            <graphic url="" />
                             <head> Early Iron Age copper alloy dagger </head>
                             <figDesc> A Late Bronze Age / Early Iron Age copper alloy dagger blade, circa 900-700BC</figDesc>
                             <note type="source" source ="http://www.europeana.eu/portal/record/2022324/399309.html "> Europeana</note>
@@ -893,7 +893,7 @@
                     <item xml:id="ob_spears">
                         <name>Spears</name>
                         <figure>
-                            <graphic url="http://www.europeana.eu/portal/record/2022324/97731.html " />
+                            <graphic url="" />
                             <head> Bronze Age spear  </head>
                             <figDesc> The tip from a broken Bronze Age spear, circa 800 BC </figDesc>
                             <note type="source" source ="http://www.europeana.eu/portal/record/2022324/97731.html "> Europeana</note>

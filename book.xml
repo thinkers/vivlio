@@ -86,10 +86,10 @@
             -->
                 <listPerson xml:id="listOfPersons">
                     <person xml:id="c_julius_caesar">
-                        <persName>Julius Caesar (Gauis Iulius Caesar)</persName>chariot
+                        <persName>Julius Caesar (Gauis Iulius Caesar)</persName>
                         <birth>13 July 100 BC, Rome - Italy</birth>
                         <death>15 March 44 BC, Rome Italy</death>
-                        <note type="fingertip_small"></note>
+                        <note type="fingertip_small">Gauis Iulius Caesar was a Roman statesman, general and notable author of Latin prose. He played a critical role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire.</note>
                         <note type="search_keys">Caesar, Julius Caesar</note>
                         <figure>
                             <head></head> <!-- use as alt text -->
@@ -143,6 +143,27 @@
                             <note type="availability"> Public Domain</note>
                         </figure>
                     </person>
+                    <person xml:id="c_gna_jul_agricol" sex="m" role="emperor">
+                        <persName> Gnaeus Julius Agricola</persName>
+                        <birth> 
+                            13 June 40 (Gallia Narbonensis)
+                        </birth>
+                        <death> 
+                            23 August 93 (Gallia Narbonensis)
+                        </death>
+                        <note type="fingertip_small"> Gnaeus Julius Agricola was a Gallo-Roman general responsible for much of the Roman conquest of Britain.
+                        </note>
+                        <note type="relations"></note>
+                        <note type="search_keys"> Agricola, Gnaeus Julius Agricola</note>
+                        <figure>
+                            <graphic url=""></graphic>
+                            <head>Statue of Gnaeus Julius Agricola</head>
+                            <figDesc>Statue of Gnaeus Julius Agricola on the terrace of the Roman Baths (Bath). 
+                                The Terrace is lined with statues of Roman Governors of Britain, Roman Emperors and military leaders. The statues date to 1894.</figDesc>
+                            <note type="source" source="https://en.wikipedia.org/wiki/File:Statue_of_Agricola_at_Bath.jpg">Wikipedia</note>
+                            <note type="availability">Public Domain </note>      
+                        </figure>
+                    </person>
                     <person xml:id="c_publ_ostor" sex="m" role="emperor">
                         <persName>Publius Ostorius Scapula</persName>
                         <birth> 
@@ -190,7 +211,8 @@
                         <death> 
                             (Unknown)
                         </death>
-                        <note type="fingertip_small"> Tacitus was the procurator of Roman Britain (60 -61 AD) . He blames his "rapacity" in part for provoking the rebellion of Boudica. When Boudica's army attacked Camulodunum (Colchester), the inhabitants sent to the procurator for help, but he sent only two hundred men. </note><note type="relations"> Gaius Suetonius Tranquillus fight with Bodacea.</note>
+                        <note type="fingertip_small">Catus Decianus was the procurator of Roman Britain (60 -61 AD) . His "rapacity" had provoked in part the rebellion of Boudica. 
+                            When Boudica's army attacked Camulodunum (Colchester), the inhabitants sent to the procurator for help, but he sent only two hundred men. </note>
                         <note type="search_keys">Catus Decianus </note>
                         <figure>
                             <graphic url="" ></graphic>
@@ -208,7 +230,7 @@
                         <death> 
                             10 July 138 (Baiae)
                         </death>
-                        <note type="fingertip_small"> Hadrianus reigned from 10 August 117 till 10 July 138. Known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma. An ardent admirer of Greece, he sought to make Athens the cultural capital of the Empire and ordered the construction of many opulent temples in the city. One of the Five Good Emperors.
+                        <note type="fingertip_small"> Hadrianus reigned from 10 August 117 till 10 July 138. Known for building Hadrian's Wall, which marked the northern limit of Britannia. He also rebuilt the Pantheon and constructed the Temple of Venus and Roma. An ardent admirer of Greece, he sought to make Athens the cultural capital of the Empire.
                         </note>
                         <note type="search_keys">Hadrianus, Publius Aelius Hadrianus Augustus  </note>
                         <figure>
@@ -253,8 +275,7 @@
                         <death> 
                             293 AD (Britain)
                         </death>
-                        <note type="fingertip_small">He was emperor of Brittanic  Empire (286–293 AD) .Originated from  Belgic Gaul he who was appointed as a military commander of the Roman Empire, and  his command had been sea-based. He usurped power in 286, during the Carausian Revolt, declaring himself emperor in Britain and northern Gaul.
-                        </note>
+                        <note type="fingertip_small">Caracalla is remembered as one of the most notorious and unpleasant of emperors (according to the literate elite) because of the massacres and persecutions he authorized and instigated throughout the Empire</note>
                         <note type="search_keys">Marcus Aurelius Mausaeus Valerius Carausius</note>
                         <figure>
                             <graphic url="media/c_marc_aur_maus_cara.jpg" ></graphic>
@@ -264,6 +285,26 @@
                             <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
                         </figure>
                     </person>
+                    <person xml:id="c_marc_aur_maus" sex="m" role="emperor">
+                        <persName>Marcus Aurelius Mausaeus Valerius Carausius</persName>
+                        <birth> 
+                            n.d.(Gallia Belgica)
+                        </birth>
+                        <death> 
+                            293 AD (Britain)
+                        </death>
+                        <note type="fingertip_small"> Marcus Aurelius Mausaeus Valerius Carausius was emperor of Brittanic  Empire (286–293 AD). He who was appointed as a military commander of the Roman Empire, and  his command had been sea-based. He usurped power in 286, during the Carausian Revolt, declaring himself emperor in Britain and northern Gaul.
+                        </note>
+                        <note type="search_keys"> Carausius, Marcus Aurelius Mausaeus Valerius Carausius</note>
+                        <figure>
+                            <graphic url="http://www.europeana.eu/portal/record/2023828/eMuseumPlus_service_ExternalInterface_module_collection_objectId_1799085.html " ></graphic>
+                            <head> Carausius</head>
+                            <figDesc>Coin with Carausius' head  </figDesc>
+                            <note type="source"> Europeana</note>
+                            <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 3.0 License</note>
+                        </figure>
+                    </person>
+                    
                     <person xml:id="c_flav_honor" sex="m" role="emperor">
                         <persName>Flavius Honorius Augustus</persName>
                         <birth> 
@@ -272,7 +313,7 @@
                         <death> 
                             15 August 423 (Ravenna, Italia)
                         </death>
-                        <note type="fingertip_small">He was emperor of Western Roman Empire (23 January 393 – 15 August 423) </note>
+                        <note type="fingertip_small">Honorius is widely considered as one of the worst of the emperors; it was during his reign that Rome was sacked for the first time in 800 years (23 January 393 – 15 August 423) </note>
                         <note type="search_keys">Flavius Honorius Augustus</note>
                         <figure>
                             <graphic url="media/c_flav_honor.jpg" ></graphic>

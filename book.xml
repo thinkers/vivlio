@@ -136,7 +136,7 @@
                         <note type="relations">He was sent from Claudius with four legions to Britain in order to subdue the Island.</note>
                         <note type="search_keys">Aulus Plautius</note>
                         <figure>
-                            <graphic url=""></graphic>
+                            <graphic url="media/c_aul_plaut.jpg"></graphic>
                             <head>The departure of the Romans from Britain, illustration from The History of the Nation</head>
                             <figDesc>The departure of the Romans from Britain, illustration from The History of the Nation" oil on Canvas.</figDesc>
                             <note type="source" source="http://www.wikigallery.org/wiki/painting_243084/Henry-A.-%28Harry%29-Payne/The-departure-of-the-Romans-from-Britain%2C-illustration-from-The-History-of-the-Nation">Wikigallery</note>
@@ -417,7 +417,7 @@
                         <note type="fingertip_small">Cornwall is a county of England, in the south-west part of Great Britain.</note>                                  
                         <note type="media_place">
                           <figure>
-                              <graphic url=""></graphic>
+                              <graphic url="media/pl_cornwall.jpg"></graphic>
                              <head>Lanyon Quoit</head>
                              <figDesc>Lanyon Quoit is a megalithic monument in Penzance.</figDesc>
                              <note type="source" source="http://www.europeana.eu/portal/record/2048419/item_V74X25YPAIHVOD7A2BWXYZI24BMLP4CG.html">Europeana</note>
@@ -434,7 +434,7 @@
                <note type="fingeript_small">Kent is a country in South East England with a long history of human occupation.</note>
                <note type="media_place">
                   <figure>
-                      <graphic url="https://en.wikipedia.org/wiki/Richborough_Castle#/media/File:Richborough_Roman_Fort.JPG"></graphic>
+                      <graphic url="media/pl_kent.jpg"></graphic>
                      <head>Ruins of Richborough fort</head>
                      <figDesc>The outer defensive works and one wall of Richborough Fort in Kent, which was the main entry point to Britain for Romans.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/Richborough_Castle#/media/File:Richborough_Roman_Fort.JPG">Wikipedia</note>
@@ -450,7 +450,7 @@
                 <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_ireland.jpg"></graphic>
                      <head>The Uragh Stone Circle</head>
                      <figDesc>Uragh Stone Circle, a neolithic stone circle in Gleninchaquin Park, County Kerry, Republic of Ireland.</figDesc>
                       <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/0/0f/Uragh_Stone_Circle.jpg">Wikipedia</note>
@@ -466,13 +466,14 @@
                 <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="pl_stonehenge.jpg"></graphic>
                      <head>Stonehenge, Amesbury, Wiltshire</head>
                      <figDesc>Stonehenge is believed to have been a religious site with a strong astronomical component. It was first built around 3,000BC and was modified over about 1,500 years.</figDesc>
                       <note type="source" source="http://www.europeana.eu/portal/record/2022317/B2F7D8D53139B60D5993D1BED1973A0D69591624.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
+                <!-- 
                <note type="media_place">
                   <figure>
                      <graphic url=""></graphic>
@@ -518,6 +519,8 @@
                      <note type="availability">Rights Reserved - Free Access</note>
                   </figure>
                </note>
+            
+             -->
             </place>
             
             <place xml:id="pl_canterbury">
@@ -528,13 +531,14 @@
                <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_canterbury.jpg"></graphic>
                      <head>The 'Big Dig'</head>
                         <figDesc>A major archaeological project was undertaken by the Canterbury Archaeological Trust.</figDesc>
                       <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
                      <note type="availability">Distributed under a Creative Commons Attribution-Share Alike 2.0 License</note>
                   </figure>
                </note> 
+                <!-- 
                <note type="media_place">
                   <figure>
                      <graphic url="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_c_zoomify78561_html.html"></graphic>
@@ -544,7 +548,9 @@
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note>
-            </place>
+            
+             -->
+            </place>   
             
             <place xml:id="pl_chertsey">
                <placeName>Chertsey (Cirotisege, Cerotesege)</placeName>
@@ -554,7 +560,7 @@
                <note type="fingeript_small">Chertsey was one of the oldest market towns in England.</note> 
                <note type="media_place">
                   <figure>
-                     <graphic url="https://en.wikipedia.org/wiki/Chertsey#/media/File:Chertsey_Bridge,_between_Chertsey_and_Laleham_(19_November_2005).jpg"></graphic>
+                      <graphic url="media/pl_chertsey.jpg"></graphic>
                      <head>Chertsey Bridge</head>
                         <figDesc>Chertsey Bridge, between Chertsey and Laleham.</figDesc>
                       <note type="source" source="https://de.wikipedia.org/wiki/Canterbury#/media/File:Canterbury_Big_Dig_2.JPG">Wikipedia</note>
@@ -571,7 +577,7 @@
                <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                     <graphic url="media/pl_surrey.jpg"></graphic>
                      <head>Stane Street at Eartham Woods</head>
                         <figDesc>Stane Street was created by Romans and ran through Surrey.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/Stane_Street_(Chichester)#/media/File:Stane_Street_at_Eartham_Woods.JPG">Wikipedia</note>
@@ -588,7 +594,7 @@
                <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_hertfordshire.jpg"></graphic>
                      <head>The Devil's Dyke</head>
                      <figDesc>Julius Ceasar's troops were defeated by Cassivellaun in Hertfordshire. The Devil's Dyke was probably the site of Caesar's defeat.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/History_of_Hertfordshire#/media/File:Devil%27s_Dyke_Hertfordshire_sign.jpg">Wikipedia</note>
@@ -604,7 +610,7 @@
                <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_anglesey.jpg"></graphic>
                      <head>Cromlech at Plas Newydd</head>
                      <figDesc>Cromlech at Plas Newydd, monolithic monument at Island of Anglesey.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/Plas_Newydd_(Anglesey)#/media/File:Cromlech_at_Plas_Newydd_in_Anglesey.jpeg">Wikipedia</note>
@@ -620,7 +626,7 @@
                <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_norfolk.jpg"></graphic>
                      <head>Burgh Castle</head>
                      <figDesc>Burgh Castle Built in around 280AD. It was a Roman cavalry fort used to protect the coast from invaders from where Northern Germany is now.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/History_of_Norfolk#/media/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg">Wikipedia</note>
@@ -638,7 +644,7 @@
                <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_suffolk.jpg"></graphic>
                      <head>Excavations at Sutton Hoo</head>
                      <figDesc>Sutton Hoo, near Woodbridge, East Anglia, is the site of two ancient cemeteries and excavations have brought to light many artefacts.</figDesc>
                       <note type="source" source="http://www.europeana.eu/portal/record/2048087/ProvidedCHO_Wakefield_Council_WAKGMP___P1999_1968.html">Wikipedia</note>
@@ -646,7 +652,7 @@
                   </figure>
                </note>                                   
             </place>
-            
+            <!-- 
             <place xml:id="pl_northumberland1">
                <placeName>Northumberland</placeName>
                
@@ -664,6 +670,7 @@
                   </figure>
                </note>                                   
             </place>
+             -->
             
             <place xml:id="pl_northumberland">
                <placeName>Northumberland</placeName>
@@ -673,11 +680,17 @@
                <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_northumberland.png"></graphic>
+                      <!-- 
                      <head>Altars at Risingham Castle</head>
                      <figDesc>These antiquities come from the Roman fort at Risingham. Originally part of the fortifications of Hadrian's Wall, the fort was built to defend the crossing of the Dere Street.</figDesc>
                       <note type="source" source="http://www.europeana.eu/portal/record/92037/_http___www_bl_uk_onlinegallery_onlineex_kinggeorge_a_zoomify80889_html.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
+                      -->
+                      <head>Northumberland</head>
+                      <figDesc>Map location</figDesc>
+                      <note type="source" source="https://www.wikiwand.com/en/Northumberland"></note>
+                      <note></note>
                   </figure>
                </note>                                   
             </place>
@@ -691,13 +704,14 @@
                <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_kits_coty.jpg"></graphic>
                      <head>Kits Coty, near Maidstone, Kent</head>
                         <figDesc>The exterior of the prehistoric monument surrounded by modern, protective railings.</figDesc>
                       <note type="source" source="http://www.europeana.eu/portal/record/2022317/DDE4B2E9565139718B91F141B8B5C44865926A38.html">Europeana</note>
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
-               </note>      
+               </note>
+                <!-- 
                <note type="media_place">
                   <figure>
                      <graphic url=""></graphic>
@@ -707,6 +721,7 @@
                      <note type="availability">Rights Reserved - Free Access </note>
                   </figure>
                </note> 
+                -->
             </place>
             
             <place xml:id="pl_bluebell_hill">
@@ -718,7 +733,7 @@
                 <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_bluebell_hill.jpg"></graphic>
                      <head>Bluebell Hill view point</head>
                      <figDesc>This view point commands stunning views for miles southwards of this part of Kent, from the edge of the North Downs.</figDesc>
                       <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/1/17/Bluebell_Hill_view_point_-_geograph.org.uk_-_56032.jpg ">Wikipedia</note>
@@ -736,7 +751,7 @@
                 <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_st_albans.jpg"></graphic>
                      <head>Remains of Roman Wall</head>
                      <figDesc>Remains of Roman wall in St Albans, Hertfordshire, UK.</figDesc>
                       <note type="source" source="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/StAlbansRomanWall-PS01.JPG/800px-StAlbansRomanWall-PS01.JPG">Wikipedia</note>
@@ -754,7 +769,7 @@
                 <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_salisbury.jpg"></graphic>
                      <head>View from Walbury Hill</head>
                      <figDesc>On Walbury Hill, a typical Salisbury Plain landscape.</figDesc>
                       <note type="source" source="https://en.wikipedia.org/wiki/Salisbury_Plain#/media/File:View_from_Walbury_Hill.jpg ">Wikipedia</note>
@@ -772,7 +787,7 @@
                 <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
                <note type="media_place">
                   <figure>
-                     <graphic url=""></graphic>
+                      <graphic url="media/pl_maidstone.jpg"></graphic>
                      <head>Quarrying Kentish ragstone</head>
                      <figDesc>The area is still mined for ragstone, which is has been used in many historical buildings.</figDesc>
                       <note type="source" source="http://www.europeana.eu/portal/record/2024904/photography_ProvidedCHO_TopFoto_co_uk_EU030794.html">Europeana</note>
@@ -783,14 +798,13 @@
                     
             <place xml:id="pl_hadrian_wall">
                 <placeName>Hadrian's Wall</placeName>
-                        
                 <location>
                     <geo>54.9898985 -2.603885 </geo>
                 </location>
                 <note type="fingeript_small">Hadrian's Wall was a defensive fortification in the Roman province of Britannia, built during the reign of the emperor Hadrian.</note>
                 <note type="media_place">
                     <figure>
-                        <graphic url=""></graphic>
+                        <graphic url="media/pl_hadrians_wall.jpg"></graphic>
                         <head>Hadrian's Wall</head>
                         <figDesc>Hadrian's Wall, west of Birdoswald Roman fort.</figDesc>
                         <note type="source" source="http://www.europeana.eu/portal/record/2022363/ct15002.html">Europeana</note>
@@ -799,9 +813,6 @@
                 </note>                                   
             </place>                  
                      
-                    <!-- ITALY -->
-                    <!-- FRANCE -->
-                    <!-- OTHER -->
                 </listPlace>
             </div>
             <!-- ## OBJECTS -->

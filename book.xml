@@ -431,7 +431,7 @@
                <location>
                   <geo>51.1949374 0.1822119</geo>
                </location>
-               <note type="fingeript_small">Kent is a country in South East England with a long history of human occupation.</note>
+               <note type="fingertip_small">Kent is a country in South East England with a long history of human occupation.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_kent.jpg"></graphic>
@@ -447,7 +447,7 @@
                <location>
                   <geo>53.0360895 -17.1358564</geo>
                </location>
-                <note type="fingeript_small">Ireland was, during prehistoric times, home to Celts.</note>
+                <note type="fingertip_small">Ireland was, during prehistoric times, home to Celts.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_ireland.jpg"></graphic>
@@ -463,7 +463,7 @@
                <location>
                   <geo>51.178880 -1.826219</geo>
                </location>
-                <note type="fingeript_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
+                <note type="fingertip_small">Stonehenge is a prehistoric monument in England, comprised by a round formation of stones.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="pl_stonehenge.jpg"></graphic>
@@ -528,7 +528,7 @@
                <location>
                   <geo>51.283371 1.079215</geo>
                </location>
-               <note type="fingeript_small">Canterbury is a historic town in the region of Kent.</note>
+               <note type="fingertip_small">Canterbury is a historic town in the region of Kent.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_canterbury.jpg"></graphic>
@@ -557,7 +557,7 @@
                <location>
                   <geo>51.386615 -0.509465</geo>
                </location>
-               <note type="fingeript_small">Chertsey was one of the oldest market towns in England.</note> 
+               <note type="fingertip_small">Chertsey was one of the oldest market towns in England.</note> 
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_chertsey.jpg"></graphic>
@@ -574,7 +574,7 @@
                <location>
                   <geo>51.2661875 -1.5136747</geo>
                </location>
-               <note type="fingeript_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
+               <note type="fingertip_small">Surrey was inhabited by British tribes before being occupied by Romans.</note>
                <note type="media_place">
                   <figure>
                      <graphic url="media/pl_surrey.jpg"></graphic>
@@ -591,7 +591,7 @@
                <location>
                   <geo>51.8347747 -1.3934209</geo>
                </location>
-               <note type="fingeript_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
+               <note type="fingertip_small">Hertfordshire is an English county and developed through commerce serving London.</note> 
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_hertfordshire.jpg"></graphic>
@@ -607,7 +607,7 @@
                <location>
                   <geo>53.2770416 -4.8734052</geo>
                </location>
-               <note type="fingeript_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
+               <note type="fingertip_small">Numerous megalithic monuments and menhirs are present on Anglesey, and it has been associated with druids.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_anglesey.jpg"></graphic>
@@ -623,7 +623,7 @@
                <location>
                   <geo>52.6687479 -0.1714611</geo>
                </location>
-               <note type="fingeript_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
+               <note type="fingertip_small">Norfolk is a rural county with an extensive and industrious population and history.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_norfolk.jpg"></graphic>
@@ -641,7 +641,7 @@
                <location>
                   <geo>52.2355148 -0.0665338</geo>
                </location>
-               <note type="fingeript_small">Suffolk is an East Anglian county of historic origin in England.</note>
+               <note type="fingertip_small">Suffolk is an East Anglian county of historic origin in England.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_suffolk.jpg"></graphic>
@@ -659,7 +659,7 @@
                <location>
                   <geo>55.2954456 -2.6355857</geo>
                </location>
-               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
+               <note type="fingertip_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
                      <graphic url=""></graphic>
@@ -677,7 +677,7 @@
                <location>
                   <geo>55.2954456 -2.6355857</geo>
                </location>
-               <note type="fingeript_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
+               <note type="fingertip_small">Northumberland, England's northernmost county has been home and battlefield for Romans, Anglians, Celts, Norman and Scots. </note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_northumberland.png"></graphic>
@@ -701,7 +701,7 @@
                <location>
                   <geo>51.319338, 0.504931</geo>
                </location>
-               <note type="fingeript_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
+               <note type="fingertip_small">A Neolithic chambered long barrow (stone tomb) in the English county of Kent. Part of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_kits_coty.jpg"></graphic>
@@ -730,7 +730,7 @@
                <location>
                   <geo>51.3349681, 0.4788975</geo>
                </location>
-                <note type="fingeript_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
+                <note type="fingertip_small">Blue Bell Hill is a chalk hill between Maidstone and Rochester in the English county of Kent. Home of the Medway Megaliths.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_bluebell_hill.jpg"></graphic>
@@ -748,7 +748,7 @@
                <location>
                   <geo>51.7472736 -0.3493187</geo>
                </location>
-                <note type="fingeript_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
+                <note type="fingertip_small">St Albans is a city and unparished area in southern Hertfordshire, England. It was a Celitc settlement and later the second largest town in Roman Britain.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_st_albans.jpg"></graphic>
@@ -766,7 +766,7 @@
                <location>
                   <geo>51.3227298 -2.4860678</geo>
                </location>
-                <note type="fingeript_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
+                <note type="fingertip_small">Salisbury Plain is a chalk plateau in central southern England covering 300 square miles.</note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_salisbury.jpg"></graphic>
@@ -784,7 +784,7 @@
                <location>
                   <geo>51.2627597 0.4500384 </geo>
                </location>
-                <note type="fingeript_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
+                <note type="fingertip_small">Maidstone has been inhabited from the Mesolithic times and has seen settlements by the Romans. Maidstone produced ragstone, used for Roman walls. </note>
                <note type="media_place">
                   <figure>
                       <graphic url="media/pl_maidstone.jpg"></graphic>
@@ -801,7 +801,7 @@
                 <location>
                     <geo>54.9898985 -2.603885 </geo>
                 </location>
-                <note type="fingeript_small">Hadrian's Wall was a defensive fortification in the Roman province of Britannia, built during the reign of the emperor Hadrian.</note>
+                <note type="fingertip_small">Hadrian's Wall was a defensive fortification in the Roman province of Britannia, built during the reign of the emperor Hadrian.</note>
                 <note type="media_place">
                     <figure>
                         <graphic url="media/pl_hadrians_wall.jpg"></graphic>

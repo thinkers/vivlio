@@ -328,7 +328,7 @@
                         <note type="fingertip_small">He was emperor of the Roman Empire  (193 - 211) </note>
                         <note type="search_keys">Lucius Septimius Severus Augustus</note>
                         <figure>
-                            <graphic url="media/c_luc_sept_sev" ></graphic>
+                            <graphic url="media/c_luc_sept_sev.jpg" ></graphic>
                             <head> Wall of Severus</head>
                             <figDesc>An unknown artist's engraving depicting the wall of Severus. The Wall of Severus was possibly a defensive fortification built by the Roman Emperor Septimius Severus (reigned AD 193-211) in Britannia during the emperor's campaign there.
                             </figDesc>
@@ -824,7 +824,7 @@
                     <item xml:id="ob_earthware">
                         <name>Earthware</name>
                         <figure>
-                            <graphic url="media/objects/earthware.jpg" />
+                            <graphic url="media/ob_earthware.jpg" />
                             <head>Items made of clay</head><!-- + alt of image -->
                             <figDesc>A plate and a cup made of clay.</figDesc> <!-- + caption of image -->
                             <note type="source" source="http://wikimedia.org">Wikimedia</note>
@@ -879,7 +879,7 @@
                     <item xml:id="ob_moss">
                         <name>Moss</name>
                         <figure>
-                            <graphic url=")" />
+                            <graphic url="media/ob_moss.jpg" />
                             <head>Salicornia dolichostachya Moss</head>
                             <figDesc>Salicornia dolichostachya Moss</figDesc>
                             <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html"> Europeana</note>
@@ -898,18 +898,7 @@
                         </figure>
                         <note type="fingertip"></note> 
                     </item>
-                    <item xml:id="ob_earthenware">
-                        <name>Earthenware</name>
-                        <figure>
-                            <graphic url="" />
-                            <head> Iron Age Vessel</head>
-                            <figDesc> 
-                                Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Coarse soft fabric with an soapy feel. Reduced fired, light grey core, buff inner 'skin' and dark grey outer skin. Inclusions of white sands, and non-crystalline cream, grey and orange. Height of handle 41.5mm, min width of handle (outer edge) 21.8mm, Internal diameter 11mm, weight 53.1g.David Knight (Trent and Peak Archaeology Unit) writes:Very nice example of a strap handle, which I would suspect is probably Iron Age. You can find parallels in LBA and IA assemblages across the East Midlands and eastern England (as well as farther south). Most examples fit within an IA context (e.g. the handle from a middle IA Scored Ware assemblage from Market Deeping, Lincs, no.23) but rare examples are known in LBA contexts (e.g. post Deverel-Rimbury Plainware jar from Isleham Cambs (in this case containing a Wilburton stage bronze hoard, so well dated)</figDesc>
-                            <note type="source" source="http://europeana.eu/portal/record/2022324/290426.html"> Europeana</note>
-                            <note type="availability">Distributed under a  Creative Commons Attribution 4.0 Licence</note>
-                        </figure>
-                        <note type="fingertip">Prehistoric pottery vessel sherd, probably Iron Age, possibly late Bronze Age. Complete small rounded strap handle. Example of how pottery of the era looks like nowadays.</note> 
-                    </item>
+                    
                     <item xml:id="ob_swords">
                         <name>Swords</name>
                         <figure>
@@ -968,7 +957,7 @@
                     <item xml:id="ob_eartenhware">
                         <name>Earthenware</name>
                         <figure>
-                            <graphic url="http://europeana.eu/portal/record/2022324/290426.html" />
+                            <graphic url="media/ob_earthenware.jpg" />
                             <head>Iron Age vessel</head>
                             <figDesc>Prehistoric pottery vessel shard</figDesc>
                             <note type="source" source="http://www.europeana.eu/portal/record/11615/_DIGIT_TYPER_UCPH_DENMARK_C10009354.html">Europeana</note>
